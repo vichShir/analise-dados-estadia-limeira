@@ -1,0 +1,20 @@
+index,imob,codigo,bairro,aluguel,condominio,area,quartos,banheiros,vaga_garagem,descricao,total,preco_m2,dist_unicamp
+25,C,48cf0deecd859f082300f8bb8f2ee7c6,JD. Cidade Universitária I,950.0,100.0,25.0,1,1,0.0,"Apartamento localizado no Chacara Antonieta contendo quarto e sala conjugados com armário e painel de TV, cozinha planejada com geladeira e fogão, banheiro social, lavanderia e vaga na garagem para 01 carro com portão eletrônico. Acabamento em piso cerâmico e laje.
+25      M2
+1       QUARTO COM ARMÁRIO
+1       SALA COM PAINEL
+1       COZINHA PLANEJADA COM FOGÃO E GELADEIRA
+1       BANHEIRO
+1       LAVANDERIA
+1       VAGA PARA CARRO COM PORTÃO ELETRÔNICO
+PISO CERÂMICO
+TETO LAJE",1050.0,42.0,1.3854276880650611
+26,C,ded7b202961dd5bb3fd74353a755c6de,JD. Cidade Universitária I,950.0,100.0,25.0,1,1,0.0,"Apartamento localizado no Chacara Antonieta contendo quarto e sala conjugados com armário e painel de TV, cozinha planejada com geladeira e fogão, banheiro social, lavanderia e vaga na garagem para 01 carro com portão eletrônico. Acabamento em piso cerâmico e laje.
+25      M2
+1       QUARTO COM ARMÁRIO
+1       SALA COM PAINEL DE TV
+1       COZINHA PLANEJADA COM FOGÃO E GELADEIRA
+1       LAVANDERIA
+1       VAGA PARA CARRO COM PORTÃO ELETRÔNICO
+PISO CERÂMICO
+TETO LAJE",1050.0,42.0,1.3854276880650611

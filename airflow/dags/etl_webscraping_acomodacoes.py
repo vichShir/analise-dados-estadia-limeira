@@ -1,4 +1,5 @@
 import datetime
+from datetime import date
 from io import BytesIO
 import pandas as pd
 import numpy as np
@@ -31,23 +32,26 @@ client = Minio(
         secure=False
     )
 
+today = date.today()
+current_date = today.strftime("%d_%m_%Y")
+
 def extract():
-    
+
     # Extrai os dados a partir do Data Lake.
-    url_acomodacoes = client.presigned_get_object("landing", "acomodacoes_hashcode.csv")
+    url_acomodacoes = client.presigned_get_object("landing", 'webscraping_acomodacoeshash_10_11_2021.csv')
     url_bairros = client.presigned_get_object("landing", "bairros/bairros_eleitos.csv")
     df_acomodacoes = pd.read_csv(url_acomodacoes)
     df_bairros = pd.read_csv(url_bairros)
     
     # Persiste os arquivos na área de Staging.
-    df_acomodacoes.to_csv("/tmp/acomodacoes_hashcode.csv", index=False)
+    df_acomodacoes.to_csv("/tmp/acomodacoeshash.csv", index=False)
     df_bairros.to_csv("/tmp/bairros_eleitos.csv", index=False)
  
 
 def transform():
 
     # Ler os dados a partir da área de Staging.
-    df = pd.read_csv("/tmp/acomodacoes_hashcode.csv")
+    df = pd.read_csv("/tmp/acomodacoeshash.csv")
     df_bairros = pd.read_csv("/tmp/bairros_eleitos.csv")
 
     ##############################################################
@@ -187,22 +191,24 @@ def transform():
     print('Remoção das linhas com aluguel nulo: OK')
 
     # Persiste os dados transformados na área de staging.
-    df.to_csv("/tmp/acomodacoes_hashcode.csv", index=False)
+    df.to_csv("/tmp/acomodacoeshash.csv", index=False)
 
 
 def load():
 
     # Carrega os dados a partir da área de staging.
-    df_ = pd.read_csv("/tmp/acomodacoes_hashcode.csv")
+    df_ = pd.read_csv("/tmp/acomodacoeshash.csv")
+
+    acomodacoes_filename = 'acomodacoes_hashcode_' + current_date + '.parquet'
 
     # Converte os dados para o formato parquet.
-    df_.to_parquet("/tmp/acomodacoes_hashcode.parquet", index=False)
+    df_.to_parquet("/tmp/" + acomodacoes_filename, index=False)
 
     # Carrega os dados para o Data Lake.
     client.fput_object(
         "processing",
-        "acomodacoes_hashcode.parquet",
-        "/tmp/acomodacoes_hashcode.parquet"
+        acomodacoes_filename,
+        "/tmp/" + acomodacoes_filename
     )
 
 

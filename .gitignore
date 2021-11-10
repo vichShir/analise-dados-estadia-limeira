@@ -1,4 +1,7 @@
 Notebooks/.ipynb_checkpoints
 Notebooks/chromedriver.exe
+airflow/dags/__pycache__
+datalake/.minio.sys
+Data/
 Images/
 Contratos.xlsx

@@ -15,7 +15,7 @@ DEFAULT_ARGS = {
     'start_date': datetime.datetime(2021, 1, 13),
 }
 
-dag = DAG('etl_column_vaga_garagem',
+dag = DAG('etl_webscraping_acomodacoes',
           default_args=DEFAULT_ARGS,
           schedule_interval="@once"
         )

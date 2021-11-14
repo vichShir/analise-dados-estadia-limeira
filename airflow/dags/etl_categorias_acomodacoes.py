@@ -111,7 +111,8 @@ def transform():
         (df_bairros_longe_barato['preco_m2'] >= 35)
     )
     df_longe_barato_maior_m2 = df_bairros_longe_barato[filtro_barato_maior_m2].sort_values(by='total')
-    df_longe_barato_menor_m2.to_csv('/tmp/acomodacoes_longe_barato_maiorm2.csv')
+    df_longe_barato_maior_m2.index.name = 'index'
+    df_longe_barato_maior_m2.to_csv('/tmp/acomodacoes_longe_barato_maiorm2.csv')
     print('(4/6) [STAGING] Acomodações longe, barato e maior m2: OK')
 
     ### Longe e caro

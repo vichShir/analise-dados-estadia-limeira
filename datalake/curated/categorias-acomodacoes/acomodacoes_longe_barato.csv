@@ -1,0 +1,57 @@
+index,imob,codigo,bairro,aluguel,condominio,area,quartos,banheiros,vaga_garagem,descricao,total,preco_m2,dist_unicamp
+5,C,660f29bab4766650b9e3e62aae4f6730,JD. Cidade Universitária I,850.0,0.0,,1,1,0.0,"Kitinet próximo à Unicamp (FCA) sendo 01 quarto e cozinha conjugados, banheiro e área de serviço. O imóvel  possui: geladeira, cama, colchão, cortina black out, fogão, armário e conta também com cerca elétrica, interfone, cameras de monitoramento além de ter incluso em seu aluguel as despesas de água, energia e iptu.
+1       QUARTO CONJUGADO
+1       COZINHA CONJUGADO
+1       BANHEIRO
+1       ÁREA DE SERVIÇO
+PISO CERÂMICO
+TETO LAJE",850.0,,1.3854276880650611
+10,C,17e432c6fd9c0be3a2cbf043f3bd8387,JD. Cidade Universitária I,750.0,0.0,,1,1,0.0,"Kitinet localizada na Cidade Universitária próximo a Unicamp (FCA) contendo 01 quarto e cozinha conjugados, banheiro e lavanderia, imóvel também possui cama e micro-ondas.
+1       QUARTO CONJUGADO COM COZINHA
+1       BANHEIRO
+1       LAVANDERIA
+PISO PORCELANATO
+TETO LAJE E GESSO",750.0,,1.3854276880650611
+27,C,3373dddda5f9ac40a77e24c56637bf1c,JD. Cidade Universitária I,800.0,0.0,,1,1,0.0,"kitinet com ótima localização na Cidade universitária, contendo 01 quarto, cozinha e lavanderia conjugada e banheiro.
+1       QUARTO
+1       COZINHA
+1       BANHEIRO
+1       LAVANDERIA CONJUGADA
+PISO CERÂMICO
+TETO LAJE",800.0,,1.3854276880650611
+28,C,d9b2196d1832bd89cf68e3cf348b57ff,JD. Cidade Universitária I,700.0,0.0,,1,1,0.0,"Kitinet lcalizada no Cidade Universitária próximo a Unicamp contendo quarto e sala conjugados, cozinha com fogão cooktop e microondas, banheiro social com gabinete e box e lavanderia de uso coletivo. Acabamento em piso cerâmico e laje.
+1º      ANDAR
+30      M2
+1       QUARTO CONJUGADO
+1       SALA
+1       COZINHA
+1       BANHEIRO
+1       LAVANDERIA COLETIVA
+PISO CERÂMICO
+TETO LAJE",700.0,,1.3854276880650611
+29,C,2666412f384c5ca7b49e8fcf544011db,JD. Cidade Universitária I,700.0,0.0,,1,1,0.0,"Kitinet lcalizada no Cidade Universitária próximo a Unicamp contendo quarto e sala conjugados, cozinha com fogão cooktop, banheiro social com gabinete e box e lavanderia de uso coletivo. Acabamento em piso cerâmico e laje.
+TERREO ANDAR TERREO
+30      M2
+1       QUARTO CONJUGADO
+1       SALA
+1       COZINHA
+1       BANHEIRO
+1       LAVANDERIA COLETIVA
+PISO CERÂMICO
+TETO LAJE",700.0,,1.3854276880650611
+54,B,3efb8f5900d5b5dff557d6857681338a,JD. Cidade Universitária I,850.0,0.0,,1,1,0.0,Kitnet localizada na Cidade Universitária próximo a Unicamp.,850.0,,1.3854276880650611
+55,B,d1f942def322fc204b6be20838e7d044,JD. Cidade Universitária I,850.0,0.0,,1,1,0.0,Kitnet localizada na Cidade Universitária próximo a Unicamp.,850.0,,1.3854276880650611
+56,B,97bcff626e416e4682240b08bfe240e9,JD. Cidade Universitária I,850.0,0.0,,1,1,0.0,"Kitnet no bairro Universitário, próximo a Unicamp.",850.0,,1.3854276880650611
+57,B,c3ff9f70c3bdd79c59d6a641c3d2eabc,JD. Cidade Universitária I,850.0,0.0,,1,1,0.0,Kitnet localizada na Cidade Universitária próximo a Unicamp.,850.0,,1.3854276880650611
+58,B,ccbc8c34f1aafff2ded08a18d8826c6f,JD. Cidade Universitária I,800.0,0.0,250.0,1,1,0.0,"Ótimo apartamento na Cidade Universitária com um dormitório com armários, banheiro social com gabinete e box de blindex, sala, cozinha com armários, geladeira, microondas, cooktop e área de serviço comum.  O locatário ficará isento do consumo de água até 10 m³ mensal e faxina semanal na área comum.",800.0,3.2,1.3854276880650611
+59,B,decee23146cd497fccdaa119dd7f51b8,JD. Cidade Universitária I,800.0,0.0,,1,1,0.0,"Ótimo apartamento na Cidade Universitária com um dormitório com armários, banheiro social com gabinete e box, sala, cozinha com armários, geladeira, microondas, cooktop e área de serviço comum.  O locatário ficará isento do consumo de água (até 10 m³ mensal) e faxina semanal na área comum.",800.0,,1.3854276880650611
+60,B,c18e0e8dc2d9c9e19e50d86b8903cfa7,JD. Cidade Universitária I,800.0,0.0,,1,1,0.0,Ótimo apartamento na Cidade Universitária com um dormitório com armários banheiro social com gabinete e box de blindex cozinha com armários geladeira microondas cooktop e área de serviço comum. Uma vaga de garagem.  O locatário ficará isento do consumo de água até 10 m³ mensal e faxina semanal na área comum.,800.0,,1.3854276880650611
+61,B,4ea828c758c2c3ad996f717c4ea91ed5,JD. Cidade Universitária I,780.0,0.0,50.0,1,1,0.0,"Kitnet com cozinha e sala conjugadas, um dormitório e banheiro.",780.0,15.6,1.3854276880650611
+65,A,c5a84c8eb6b4f9c7389fd32afa1e5357,JD. Cidade Universitária I,780.0,0.0,20.0,1,1,0.0,"KITNET COM CAMA, ARMÁRIOS, ESCRIVANINHA,COZINHA COM GELADEIRA, FOGÃO ELÉTRICO, MICROONDAS,ÁREA DE SERVIÇO COMUNITÁRIA.INCLUSO NO CONDOMINIO AGUA E ENERGIA.",780.0,39.0,1.3854276880650611
+66,A,9b5801ddc55b2411554d6fb109229460,JD. Cidade Universitária I,800.0,0.0,20.0,1,1,0.0,"COZINHA COM GELADEIRA COM DISPENSER NA PORTA, MICROONDAS, FOGÃO COOKTOP, SALA COM MESA PARA ESTUDO, AR CONDICIONADO, QUARTO COM CAMA BOX, GUARDA ROUPA EMBUTIDO.GARAGEM ROTATIVA.VALOR JÁ INCLUSO O CONDOMÍNIO: ÁGUA E LIMPEZA EXTERNA.*ENERGIA A PARTE.*OJETOS DECORATIVOS NÃO FAZEM PARTE DA LOCAÇÃO.",800.0,40.0,1.3854276880650611
+67,A,f773fe72ae9c3ae06183ea91d181347a,JD. Cidade Universitária I,800.0,0.0,20.0,1,1,0.0,"COZINHA COM GELADEIRA COM DISPENSER NA PORTA, MICROONDAS, FOGÃO COOKTOP, SALA COM MESA PARA ESTUDO, AR CONDICIONADO, QUARTO COM CAMABOX, GUARDA ROUPA EMBUTIDO.ESPAÇO DE LAZER.GARAGEM ROTATIVA.INCLUSO NO CONDOMÍNIO: ÁGUA, LIMPEZA EXTERNA E VIGILANTE NOTURNO.ENERGIA A PARTE.",800.0,40.0,1.3854276880650611
+68,A,350e21033122ce335fd0fd5f0031179d,JD. Cidade Universitária I,800.0,0.0,20.0,1,1,1.0,"COZINHA COM GELADEIRA COM DISPENSER NA PORTA, MICROONDAS, FOGÃO COOKTOP, SALA COM MESA PARA ESTUDO, AR CONDICIONADO, QUARTO COM CAMABOX, GUARDA ROUPA EMBUTIDO..GARAGEM ROTATIVA.INCLUSO NO CONDOMÍNIO: ÁGUA E LIMPEZA EXTERNA.ENERGIA A PARTE.",800.0,40.0,1.3854276880650611
+69,A,13a10985cb92f1112ce6894b29a575e7,Chácara Antonieta,850.0,0.0,30.0,1,1,0.0,"CAMA,  GUARDA-ROUPA, GELADEIRA, BANCADA, TANQUE, VENTILADOR DE TETO.INCLUSO NO CONDOMINIO: AGUA, ENERGIA, LIMPEZA EXTERNA, INTERNET.1 VAGA DE GARAGEM.",850.0,28.33333333333333,1.5023394363777396
+70,A,a92a6e35acca298c33b9d2c83bde3505,Chácara Antonieta,850.0,0.0,30.0,1,1,1.0,"CAMA,  GUARDA-ROUPA, GELADEIRA, BANCADA, TANQUE, VENTILADOR DE TETO.INCLUSO NO CONDOMINIO: AGUA, ENERGIA, LIMPEZA EXTERNA, INTERNET.1 VAGA DE GARAGEM.",850.0,28.33333333333333,1.5023394363777396
+71,A,06c9b7deba0932d78442c9fcccb5e5cd,JD. Cidade Universitária I,950.0,0.0,,1,1,0.0,"KITNET CONTENDO FOGÃO, GELADEIRA, ARMÁRIO EMBUTIDO NA COZINHA E DORMITÓRIO,PAINEL NA SALA E VENTILADOR NO TETO.01 VAGA DE GARAGEM POR APARTAMENTO, PORTÃO AUTOMÁTICO, ELEVADOR E CERCA ELÉTRICA.AGUA E CONDOMÍNIO JÁ INCLUSO NO VALOR DO ALUGUEL.ENERGIA É A PARTE.",950.0,,1.3854276880650611
+72,A,4b4adce0a87af0846fda6bdbe38d670a,JD. Cidade Universitária I,950.0,0.0,,1,1,0.0,"KITNET CONTENDO FOGÃO, GELADEIRA, ARMÁRIO EMBUTIDO NA COZINHA E DORMITÓRIO,PAINEL NA SALA E VENTILADOR NO TETO.01 VAGA DE GARAGEM POR APARTAMENTO, PORTÃO AUTOMÁTICO, ELEVADOR E CERCA ELÉTRICA.AGUA E CONDOMÍNIO JÁ INCLUSO NO VALOR DO ALUGUEL.ENERGIA É A PARTE.",950.0,,1.3854276880650611

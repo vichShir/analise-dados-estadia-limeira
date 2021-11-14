@@ -1,0 +1,196 @@
+index,imob,codigo,bairro,aluguel,condominio,area,quartos,banheiros,vaga_garagem,descricao,total,preco_m2,dist_unicamp
+0,C,57544d6162644c4cec89720f0d0fb27b,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO COM ARMARIO
+1       SALA CONJUGADA COM O QUARTO
+1       COZINHA
+1       BANHEIRO
+1       LAVANDERIA
+PISO CERÂMICO
+TETO LAJE",1000.0,28.571428571428573,1.3854276880650611
+1,C,00f33a85f39b78148f5941eac174acd2,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO  COM ARMARIO E AR CONDICIONADO
+1       SALA CONJUGADA COM QUARTO
+1       COZINHA COM ARMARIO, GELADEIRA E FOGÃO COOKTOP
+1       BANHEIRO
+1       ÁREA DE SERVIÇO
+PISO CERÂMICO
+TETO LAJE",1000.0,28.571428571428573,1.3854276880650611
+2,C,b62fad32adf34709c628e9833d66b8df,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO COM ARMÁRIO
+1       SALA COM RACK E AR CONDICIONADO
+JARDIM DE INVERNO
+1       COZINHA PLANEJADA COM GELADEIRA E FOGÃO COOKTOP
+1       BANHEIRO
+1       LAVANDERIA
+PISO PORCELANATO
+TETO LAJE",1000.0,28.571428571428573,1.3854276880650611
+3,C,2d7097bf091516c6952950802bd49019,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO  COM ARMÁRIO
+1       SALA
+1       COZINHA COM ARMÁRIO E GELADEIRA
+1       BANHEIRO
+PISO CERÂMICO
+TETO LAJE",1000.0,28.571428571428573,1.3854276880650611
+4,C,12d0456fa8a537ce311abb5ea43c4b03,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO COM ARMARIO
+1       SALA CONJUGADA COM QUARTO
+1       COZINHA COM ARMARIO, FOGÃO COOKTOP E GELADEIRA
+1       ÁREA DE SERVIÇO
+PISO CERÂMICO
+TETO LAJE",1000.0,28.571428571428573,1.3854276880650611
+6,C,eccf80daef9939671bc11ac471171654,JD. Cidade Universitária I,1000.0,0.0,,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+1       QUARTO COM ARMARIO
+1       SALA CONJUGADA COM O QUARTO
+1       COZINHA COM ARMARIO
+1       BANHEIRO
+1       LAVANDERIA
+PISO PORCELANATO
+TETO LAJE",1000.0,,1.3854276880650611
+7,C,72d0a25bdc4aa78facc3b05f3b7dc2b9,JD. Cidade Universitária I,1000.0,0.0,,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+1       QUARTO CONJUGADO COM A SALA
+1       SALA
+1       COZINHA
+1       BANHEIRO
+1       ÁREA DE SERVIÇO
+PISO CERÂMICO
+TETO LAJE",1000.0,,1.3854276880650611
+8,C,adaf6dba40a3695184eea6bad00e96bf,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO COM ARMARIO
+1       SALA CONJUGADA COM QUARTO
+1       COZINHA COM ARMARIO
+1       BANHEIRO
+1       LAVANDERIA
+PISO PORCELANATO
+TETO LAJE",1000.0,28.571428571428573,1.3854276880650611
+9,C,8621c612207ad3dbf1da43a0c56d6116,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO COM GUARDA ROUPA
+1       SALA CONJUGADO
+1       COZINHA COM ARMÁRIO, GELADEIRA E  FOGÃO COOKTOP
+1       BANHEIRO
+1       LAVANDERIA
+QUINTAL
+PISO PORCELANATO
+TETO LAJE",1000.0,28.571428571428573,1.3854276880650611
+11,C,2730887bcbe5319d9e3efaa18e0023cc,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próximo à Unicamp (FCA) sendo quarto e sala conjugados, cozinha e área de serviço conjugados e banheiro. Este imóvel também possui: guarda-roupas, geladeira, fogão, armários e ar condicionado.
+35      M2
+1       QUARTO COM ARMARIO E AR CONDICIONADO
+1       SALA CONJUGADA
+1       COZINHA COM ARMARIO CONJUGADA
+1       BANHEIRO
+1       LAVANDERIA
+PISO PORCELANATO
+TETO LAJE",1000.0,28.571428571428573,1.3854276880650611
+12,C,a264ee68837c839ccf3a90ee71c91b41,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO COM ARMARIO E AR CONDICIONADO
+1       SALA CONJUGADA
+1       COZINHA CONJUGADA E COM ARMARIO
+1       BANHEIRO
+1       LAVANDERIA
+PISO PORCELANATO
+TETO LAJE",1000.0,28.571428571428573,1.3854276880650611
+13,C,3a6973c5d2b2a8726c531a1693ea2ac1,JD. Cidade Universitária I,1000.0,0.0,,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+
+35      M2
+1       QUARTO COM ARMáRIO E AR CONDICIONADO
+1       SALA CONJUGADA
+1       COZINHA COM ARMARIO E CONJUGADA
+1       BANHEIRO
+1       LAVANDERIA
+PISO PORCELANATO
+TETO LAJE",1000.0,,1.3854276880650611
+14,C,7500856834d96bce86e5e6343d8ef15f,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO COM ARMÁRIO E AR CONDICIONADO
+1       SALA CONJUGADA
+1       COZINHA
+1       BANHEIRO
+1       LAVANDERIA
+PISO PORCELANATO
+TETO LAJE",1000.0,28.571428571428573,1.3854276880650611
+15,C,7de4e6131938592e7ad6673ca646092f,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO E SALA CONJUGADOS
+1       COZINHA E AREA DE SERVIÇO CONJUGADOS
+1       BANHEIRO
+PISO CERÂMICO
+TETO LAJE",1000.0,28.571428571428573,1.3854276880650611
+16,C,d41f3ff29acc315dd5302d634301606b,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próximo à Unicamp (FCA) sendo quarto e sala conjugados, cozinha e área de serviço conjugados e banheiro. Este imóvel também possui: guarda-roupas, geladeira, fogão, armários e ar condicionado.
+35      M2
+1       QUARTO COM ARMARIO E AR CONDICIONADO
+1       SALA CONJUGADA
+1       COZINHA PLANEJADA
+1       BANHEIRO
+1       ÁREA DE SERVIÇO
+PISO CERÂMICIO
+TETO LAJE",1000.0,28.571428571428573,1.3854276880650611
+17,C,02ae405e9d8013cc5d033c272e2a800d,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO  COM ARMARIO
+1       COZINHA COM ARMARIO, COOKTOP E GELADEIRA
+1       BANHEIRO
+1       ÁREA DE SERVIÇO CONJUGADA COM COZINHA
+PISO CERÂMICO
+TETO LAJE",1000.0,28.571428571428573,1.3854276880650611
+18,C,361a537a61eaa8e33466a2a8bbe7c274,JD. Cidade Universitária I,1000.0,0.0,,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+
+1       QUARTO CONJUGADO COM ARMARIO E AR CONDICIONADO
+1       COZINHA PLANEJADA
+1       BANHEIRO
+1       LAVANDERIA
+PISO CERÂMICO
+TETO LAJE",1000.0,,1.3854276880650611
+24,C,48cf0deecd859f082300f8bb8f2ee7c6,JD. Cidade Universitária I,950.0,100.0,25.0,1,1,0.0,"Apartamento localizado no Chacara Antonieta contendo quarto e sala conjugados com armário e painel de TV, cozinha planejada com geladeira e fogão, banheiro social, lavanderia e vaga na garagem para 01 carro com portão eletrônico. Acabamento em piso cerâmico e laje.
+25      M2
+1       QUARTO COM ARMÁRIO
+1       SALA COM PAINEL
+1       COZINHA PLANEJADA COM FOGÃO E GELADEIRA
+1       BANHEIRO
+1       LAVANDERIA
+1       VAGA PARA CARRO COM PORTÃO ELETRÔNICO
+PISO CERÂMICO
+TETO LAJE",1050.0,42.0,1.3854276880650611
+25,C,ded7b202961dd5bb3fd74353a755c6de,JD. Cidade Universitária I,950.0,100.0,25.0,1,1,0.0,"Apartamento localizado no Chacara Antonieta contendo quarto e sala conjugados com armário e painel de TV, cozinha planejada com geladeira e fogão, banheiro social, lavanderia e vaga na garagem para 01 carro com portão eletrônico. Acabamento em piso cerâmico e laje.
+25      M2
+1       QUARTO COM ARMÁRIO
+1       SALA COM PAINEL DE TV
+1       COZINHA PLANEJADA COM FOGÃO E GELADEIRA
+1       LAVANDERIA
+1       VAGA PARA CARRO COM PORTÃO ELETRÔNICO
+PISO CERÂMICO
+TETO LAJE",1050.0,42.0,1.3854276880650611
+30,B,87547b6f14ce4c758c1abf4490af8414,JD. Cidade Universitária I,1050.0,0.0,50.0,1,1,0.0,"Imóvel com sala  e cozinha conjugados, sendo a cozinha já mobiliada com gabinete, balcão, fogão e geladeira, lavanderia, dormitório com armário, mesa para estudos e ar condicionado, o banheiro com gabinete e box, além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa, o consumo de gás, faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h (sem acesso remoto). O imóvel oferece também o ponto para internet, onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades (10MB - R$ 59,90 // 15MB - 79,90 ou 20MB - R$ 99,90). A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision, que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema. ",1050.0,21.0,1.3854276880650611
+31,B,2f8542abf804d897430c0c9a84b1991e,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel muito bem localizado! Conta com sala  e cozinha conjugados, sendo a cozinha já mobiliada com gabinete, balcão, fogão e geladeira, lavanderia, dormitório com armário, mesa para estudos e ar condicionado, e o banheiro com gabinete e box blindex, além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa, o consumo de gás, faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h (sem acesso remoto).  O imóvel oferece também o ponto para internet, onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades (10MB - R$ 59,90 // 15MB - 79,90 ou 20MB - R$ 99,90). A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision, que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  *** VALORES REFERENTE À INTERNET SUJEITOS A ALTERAÇÃO, SEM PREVIO AVISO, PELA EMPRESA RESPONSÁVEL.***",1050.0,,1.3854276880650611
+32,B,7ef0dfe78be61f5fd8392d3948fb860c,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel com: geladeira, fogão, gabinete e mesa na cozinha, interfone, um dormitório com armário e mesa, ar condicionado, banheiro com gabinete e persianas.",1050.0,,1.3854276880650611
+33,B,5416c9b0aba5eb43b419b107d3975a76,JD. Cidade Universitária I,1050.0,0.0,50.0,1,1,0.0,Imóvel muito bem localizado Conta com sala  e cozinha conjugados sendo a cozinha já mobiliada com gabinete balcão fogão e geladeira lavanderia dormitório com armário mesa para estudos e ar condicionado e o banheiro com gabinete e box blindex além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa o consumo de gás faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h sem acesso remoto.  O imóvel oferece também o ponto para internet onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades 10MB - R 5990 // 15MB - 7990 ou 20MB - R 9990. A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  VALORES REFERENTE À INTERNET SUJEITOS A ALTERAÇÃO SEM PREVIO AVISO PELA EMPRESA RESPONSÁVEL.,1050.0,21.0,1.3854276880650611
+34,B,2c8c9e9121145fbc37ef67c0a5ea3869,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,Imóvel muito bem localizado. Conta com sala  e cozinha conjugados sendo a cozinha já mobiliada com gabinete balcão fogão e geladeira lavanderia dormitório com armário mesa para estudos e ar condicionado e o banheiro com gabinete e box blindex além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa o consumo de gás faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h sem acesso remoto.  O imóvel oferece também o ponto para internet onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades 10MB - R 5990 // 15MB - 7990 ou 20MB - R 9990. A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO SEM PREVIO AVISO PELA EMPRESA RESPONSÁVEL.,1050.0,,1.3854276880650611
+35,B,66144e0bddee1c85b94bc338ecfae0fb,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel muito bem localizado. Conta com sala e cozinha conjugados sendo a cozinha já mobiliada com gabinete, balcão, fogão e geladeira, lavanderia, dormitório com armário, mesa para estudos e ar condicionado, banheiro com gabinete e box blindex, interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa o consumo de gás, faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h sem acesso remoto.  O imóvel oferece também o ponto para internet onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades 10MB - R$ 59,90 // 15MB - R$ 79,90 ou 20MB - R$ 99,90. A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO SEM PRÉVIA, AVISO PELA EMPRESA RESPONSÁVEL.",1050.0,,1.3854276880650611
+36,B,484d3f328baba48b8f789ddac04a86d8,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel com sala  e cozinha conjugados, sendo a cozinha mobiliada com gabinete, balcão, fogão e geladeira, lavanderia, dormitório com armário, mesa para estudos e ar condicionado, e o banheiro com gabinete e box,  interfone individual.  No aluguel está incluso o consumo de água até 2.500L por pessoa, o consumo de gás, faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h (sem acesso remoto). O imóvel oferece também o ponto para internet, onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades (10MB - R$ 59,90 // 15MB - 79,90 ou 20MB - R$ 99,90). A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision, que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  *** VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO, SEM PREVIO AVISO, PELA EMPRESA RESPONSÁVEL.***",1050.0,,1.3854276880650611
+37,B,8dae04e0c3ca32298ab313770631283a,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel muito bem localizado. Conta com sala e cozinha conjugados, sendo a cozinha já mobiliada com gabinete, balcão, fogão e geladeira, lavanderia, dormitório com armário, mesa para estudos e ar condicionado e o banheiro com gabinete e box blindex, além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa, o consumo de gás, faxina quinzenal e consumo de energia da área comum, conta também com câmeras de monitoramento 24h sem acesso remoto.",1050.0,,1.3854276880650611
+38,B,76593fa9601827b4b1e32e91e2076188,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,Imóvel muito bem localizado. Conta com sala  e cozinha conjugados sendo a cozinha já mobiliada com gabinete balcão fogão e geladeira lavanderia dormitório com armário mesa para estudos e ar condicionado e o banheiro com gabinete e box blindex além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa o consumo de gás faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h sem acesso remoto.  O imóvel oferece também o ponto para internet onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades 10MB - R 5990 // 15MB - 7990 ou 20MB - R 9990. A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO SEM PREVIO AVISO PELA EMPRESA RESPONSÁVEL.,1050.0,,1.3854276880650611
+39,B,a456b8d60d7dc682c054f6eebc5c5274,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,Imóvel muito bem localizado! Conta com sala e cozinha conjugados sendo a cozinha já mobiliada com gabinete balcão fogão e geladeira área de serviço dormitório com armário mesa para estudos e ar condicionado e o banheiro com gabinete e box de vidro além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa o consumo de gás faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h sem acesso remoto.  O imóvel oferece também o ponto para internet onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades 10MB - R 5990 // 15MB - 7990 ou 20MB - R 9990. A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO SEM PREVIO AVISO PELA EMPRESA RESPONSÁVEL.,1050.0,,1.3854276880650611
+40,B,facc793b46ad4ca374ce1fd9b573d59e,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel muito bem localizado! Conta com sala e cozinha conjugados, sendo a cozinha já mobiliada com gabinete, balcão, fogão e geladeira, área de serviço, dormitório com armário, mesa para estudos e ar condicionado, e o banheiro com gabinete e box de vidro, além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa, o consumo de gás, faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h (sem acesso remoto).  O imóvel oferece também o ponto para internet, onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades (10MB - R$ 59,90 // 15MB - 79,90 ou 20MB - R$ 99,90). A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision, que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema. . VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO, SEM PREVIO AVISO, PELA EMPRESA RESPONSÁVEL",1050.0,,1.3854276880650611
+41,B,f35ab38d7e2c5a4b5e0a009ccc32d452,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,Imóvel novo 1 locação próximo à Unicamp e também com entrada pela Av Libertino Pizani 177. Conta com sala  e cozinha conjugados sendo a cozinha já mobiliada com gabinete balcão fogão e geladeira lavanderia dormitório com armário mesa para estudos e ar condicionado e o banheiro com gabinete e box blindex além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa o consumo de gás faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h sem acesso remoto. O imóvel oferece também o ponto para internet onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades 10MB - R 5990 // 15MB - 7990 ou 20MB - R 9990. A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO SEM PREVIO AVISO PELA EMPRESA RESPONSÁVEL.,1050.0,,1.3854276880650611
+42,B,c42857333ce48605664427a5dbb10ad3,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel muito bem localizado. Conta com sala e cozinha conjugados sendo a cozinha já mobiliada com gabinete, balcão, fogão e geladeira, lavanderia, dormitório com armário, mesa para estudos e ar condicionado, banheiro com gabinete e box blindex, interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa o consumo de gás, faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h sem acesso remoto.  O imóvel oferece também o ponto para internet onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades 10MB - R$ 59,90 // 15MB - R$ 79,90 ou 20MB - R$ 99,90. A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO SEM PRÉVIA,  AVISO PELA EMPRESA RESPONSÁVEL.",1050.0,,1.3854276880650611
+43,B,0bec22f95dda4bc6548e30e004f81d89,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel muito bem localizado! Conta com sala  e cozinha conjugados, sendo a cozinha já mobiliada com gabinete, balcão, fogão e geladeira, lavanderia, dormitório com armário, mesa para estudos e ar condicionado, e o banheiro com gabinete e box blindex, além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa, o consumo de gás, faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h (sem acesso remoto).  O imóvel oferece também o ponto para internet, onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades (10MB - R$ 59,90 // 15MB - 79,90 ou 20MB - R$ 99,90). A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision, que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO, SEM PREVIO AVISO, PELA EMPRESA RESPONSÁVEL.",1050.0,,1.3854276880650611
+44,B,475644c10a484e1b4248c595e8b15d78,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel muito bem localizado! Conta com sala  e cozinha conjugados, sendo a cozinha já mobiliada com gabinete, balcão, fogão e geladeira, lavanderia, dormitório com armário, mesa para estudos e ar condicionado, e o banheiro com gabinete e box blindex, além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa, o consumo de gás, faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h (sem acesso remoto).  O imóvel oferece também o ponto para internet, onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades (10MB - R$ 59,90 // 15MB - 79,90 ou 20MB - R$ 99,90). A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision, que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  *** VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO, SEM PREVIO AVISO, PELA EMPRESA RESPONSÁVEL.***",1050.0,,1.3854276880650611
+45,B,941707c7ec03960821a488b2754bd59a,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,Imóvel muito bem localizado Conta com sala  e cozinha conjugados sendo a cozinha já mobiliada com gabinete balcão fogão e geladeira lavanderia dormitório com armário mesa para estudos e ar condicionado e o banheiro com gabinete e box blindex além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa o consumo de gás faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h sem acesso remoto.  O imóvel oferece também o ponto para internet onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades 10MB - R 5990 // 15MB - 7990 ou 20MB - R 9990. A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO SEM PREVIO AVISO PELA EMPRESA RESPONSÁVEL.,1050.0,,1.3854276880650611
+46,B,39b7f0923fd82bb666ecc1a168848a28,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel próximo à Unicamp e também com entrada pela Av Libertino Pizani, 177. Conta com sala  e cozinha conjugados, sendo a cozinha já mobiliada com gabinete, balcão, fogão e geladeira, lavanderia, dormitório com armário, mesa para estudos e ar condicionado, e o banheiro com gabinete e box blindex, além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa, o consumo de gás, faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h (sem acesso remoto). O imóvel oferece também o ponto para internet, onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades",1050.0,,1.3854276880650611
+47,B,8a4aa098922c72013ace92f92de73cc9,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel novo, 1º locação, em frente à portaria principal da Unicamp. Conta com sala  e cozinha conjugados, sendo a cozinha já mobiliada com gabinete, balcão, fogão e geladeira, lavanderia, dormitório com armário, mesa para estudos e ar condicionado, e o banheiro com gabinete e box blindex, além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa, o consumo de gás, faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h (sem acesso remoto). O imóvel oferece também o ponto para internet, onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades (10MB - R$ 59,90 // 15MB - 79,90 ou 20MB - R$ 99,90). A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision, que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  *** VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO, SEM PREVIO AVISO, PELA EMPRESA RESPONSÁVEL.***",1050.0,,1.3854276880650611
+48,B,358c95a5fb745563272054e6f2a14985,JD. Cidade Universitária I,1000.0,0.0,50.0,1,1,0.0,"Imóvel com cozinha com gabinete, armários, mesa retrátil, cooktop elétrico, micro-ondas, geladeira, lavanderia c/ varal retrátil, dormitório com duas camas de solteiro, armário planejado contendo dois gavetas c/ chave e 01 gaveteiro de 06 gavetas onde 02 são c/ chave; banheiros com gabinete, espelho e box.",1000.0,20.0,1.3854276880650611
+73,A,4cc0e019beccf19b1e1182b9e896f089,JD. Cidade Universitária I,1000.0,0.0,,1,1,0.0,1 QUARTO COM ARMÁRIO E AR CONDICIONADO;1 SALA CONJUGADA;1 COZINHA CONJUGADA COM FOGÃO COOKTOP E GELADEIRA;1 BANHEIRO.AGUA E CONDOMINIO JÁ INCLUSO NO VALOR DO ALUGUEL.ENERGIA É A PARTE.*NÃO TEM VAGA DE GARAGEM.,1000.0,,1.3854276880650611
+74,A,06e3f8f16947e2119e6dd13e9671eb62,JD. Cidade Universitária I,1200.0,0.0,20.0,1,1,1.0,"KITNET COM COZINHA COM ARMÁRIOS, GALADEIRA, FOGÃO ELÉTRICO E MICROONDAS,  GUARDA ROUPA,PAINEL COM ESCRIVANINHA,AR CONDICIONADO. GARAGEM ROTATIVA.INCLUSO AGUA E LIMPEZA EXTERNA.ENERGIA À PARTE.",1200.0,60.0,1.3854276880650611
+75,A,d4f9e281bf219ebb78ba326984931a75,JD. Cidade Universitária I,1200.0,0.0,20.0,1,1,1.0,"KITNET COM COZINHA COM ARMÁRIOS, GALADEIRA, FOGÃO ELÉTRICO E MICROONDAS,  GUARDA ROUPA,PAINEL COM ESCRIVANINHA,AR CONDICIONADO. GARAGEM ROTATIVA.INCLUSO AGUA E LIMPEZA EXTERNA.ENERGIA À PARTE.",1200.0,60.0,1.3854276880650611
+76,A,4335d8cdb2b2d5869e31b2e4a8a5397e,JD. Cidade Universitária I,1200.0,0.0,20.0,1,1,1.0,"COZINHA COM ARMARIOS, GALDEIRA, FOGÃO E MICROONDAS  GUARDA ROUPA PAINEL COM ESCRIVANINHA AR CONDICIONADO GARAGEM ROTATIVA INCLUSO AGUA E LIMPEZA EXTERNA",1200.0,60.0,1.3854276880650611
+77,A,3523c1ce248ca6ae7f76dc30e70f87c4,JD. Cidade Universitária I,1200.0,0.0,20.0,1,1,1.0,"KITNET COM COZINHA COM ARMÁRIOS, GALADEIRA, FOGÃO ELÉTRICO E MICROONDAS,  GUARDA ROUPA,PAINEL COM ESCRIVANINHA,AR CONDICIONADO. GARAGEM ROTATIVA.INCLUSO AGUA E LIMPEZA EXTERNA.ENERGIA À PARTE.",1200.0,60.0,1.3854276880650611
+78,A,7d5484786120d25928bb67c399e56d7f,JD. Cidade Universitária I,1200.0,0.0,20.0,1,1,1.0,"KITNET COM COZINHA COM ARMÁRIOS, GALADEIRA, FOGÃO ELÉTRICO E MICROONDAS,  GUARDA ROUPA,PAINEL COM ESCRIVANINHA,AR CONDICIONADO. GARAGEM ROTATIVA.INCLUSO AGUA E LIMPEZA EXTERNA.ENERGIA À PARTE.",1200.0,60.0,1.3854276880650611
+79,A,0ceadbf4db60a38cf3ab2d56ecc86e9b,JD. Cidade Universitária I,1200.0,0.0,20.0,1,1,1.0,"KITNET COM COZINHA COM ARMÁRIOS, GALADEIRA, FOGÃO ELÉTRICO E MICROONDAS,  GUARDA ROUPA,PAINEL COM ESCRIVANINHA,AR CONDICIONADO. GARAGEM ROTATIVA.INCLUSO AGUA E LIMPEZA EXTERNA.ENERGIA À PARTE.",1200.0,60.0,1.3854276880650611
+80,A,c5376259a423f128711fd7b7a691b84c,JD. Cidade Universitária I,1200.0,0.0,25.0,1,1,1.0,"KITNET COM COZINHA COM ARMÁRIOS, GALADEIRA, FOGÃO ELÉTRICO E MICROONDAS,  GUARDA ROUPA,PAINEL COM ESCRIVANINHA,AR CONDICIONADO. GARAGEM ROTATIVA.INCLUSO AGUA E LIMPEZA EXTERNA.ENERGIA À PARTE.",1200.0,48.0,1.3854276880650611
+81,A,0ad20aec1ef2df50a06a50921b1b230f,JD. Cidade Universitária I,1200.0,0.0,25.0,1,1,1.0,"KITNET COM COZINHA COM ARMÁRIOS, GALADEIRA, FOGÃO ELÉTRICO E MICROONDAS,  GUARDA ROUPA,PAINEL COM ESCRIVANINHA,AR CONDICIONADO. GARAGEM ROTATIVA.INCLUSO AGUA E LIMPEZA EXTERNA.ENERGIA À PARTE.",1200.0,48.0,1.3854276880650611

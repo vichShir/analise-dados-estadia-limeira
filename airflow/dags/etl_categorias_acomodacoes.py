@@ -69,7 +69,7 @@ def transform():
     df_bairros_pertos_baratos = df_bairros_pertos[filtro_imobB_bairro_morro]
     df_bairros_pertos_baratos.index.name = 'index'
     df_bairros_pertos_baratos.to_csv('/tmp/acomodacoes_perto_barato.csv')
-    print('(1/2) [STAGING] Acomodações perto e barato: OK')
+    print('(1/6) [STAGING] Acomodações perto e barato: OK')
 
     ### Perto e caro
     filtro_caro = (
@@ -78,22 +78,77 @@ def transform():
     df_pertos_caros = df_bairros_pertos[filtro_caro]
     df_pertos_caros.index.name = 'index'
     df_pertos_caros.to_csv('/tmp/acomodacoes_perto_caro.csv')
-    print('(2/2) [STAGING] Acomodações perto e caro: OK')
+    print('(2/6) [STAGING] Acomodações perto e caro: OK')
+
+    ##############################################################
+    # Bairros - longe
+    ##############################################################
+    filtro_bairros_longe = (
+        (df_acomodacoes['bairro'] == 'JD. Cidade Universitária I') |
+        (df_acomodacoes['bairro'] == 'Chácara Antonieta') |
+        (df_acomodacoes['bairro'] == 'JD. São Paulo')
+    )
+    df_bairros_longe = df_acomodacoes[filtro_bairros_longe].copy()
+    print('Bairros longes: OK')
+
+    ### Longe e barato
+    filtro_mais_baratos = (
+        (df_bairros_longe['total'] < 1000)
+    )
+    df_bairros_longe_barato = df_bairros_longe[filtro_mais_baratos]
+
+    # Menor preço m2
+    filtro_barato_menor_m2 = (
+        ((df_bairros_longe_barato['preco_m2'] < 35) | (df_bairros_longe_barato['preco_m2'].isnull()))
+    )
+    df_longe_barato_menor_m2 = df_bairros_longe_barato[filtro_barato_menor_m2].sort_values(by='total')
+    df_longe_barato_menor_m2.index.name = 'index'
+    df_longe_barato_menor_m2.to_csv('/tmp/acomodacoes_longe_barato_menorm2.csv')
+    print('(3/6) [STAGING] Acomodações longe, barato e menor m2: OK')
+
+    # Maior preço m2
+    filtro_barato_maior_m2 = (
+        (df_bairros_longe_barato['preco_m2'] >= 35)
+    )
+    df_longe_barato_maior_m2 = df_bairros_longe_barato[filtro_barato_maior_m2].sort_values(by='total')
+    df_longe_barato_menor_m2.to_csv('/tmp/acomodacoes_longe_barato_maiorm2.csv')
+    print('(4/6) [STAGING] Acomodações longe, barato e maior m2: OK')
+
+    ### Longe e caro
+    filtro_mais_caros = (
+        (df_bairros_longe['total'] >= 1000)
+    )
+    df_bairros_longe_caro = df_bairros_longe[filtro_mais_caros]
+
+    # Menor preço m2
+    filtro_caro_menor_m2 = (
+        ((df_bairros_longe_caro['preco_m2'] < 35) | (df_bairros_longe_caro['preco_m2'].isnull()))
+    )
+    df_longe_caro_menor_m2 = df_bairros_longe_caro[filtro_caro_menor_m2].sort_values(by='total')
+    df_longe_caro_menor_m2.index.name = 'index'
+    df_longe_caro_menor_m2.to_csv('/tmp/acomodacoes_longe_caro_menorm2.csv')
+    print('(5/6) [STAGING] Acomodações longe, caro e menor m2: OK')
+
+    # Maior preço m2
+    filtro_caro_maior_m2 = (
+        (df_bairros_longe_caro['total'] > 1040) & 
+        ((df_bairros_longe_caro['preco_m2'] > 35) | (df_bairros_longe_caro['preco_m2'].isnull()))
+    )
+    df_longe_caro_maior_m2 = df_bairros_longe_caro[filtro_caro_maior_m2].sort_values(by='total')
+    df_longe_caro_maior_m2.index.name = 'index'
+    df_longe_caro_maior_m2.to_csv('/tmp/acomodacoes_longe_caro_maiorm2.csv')
+    print('(6/6) [STAGING] Acomodações longe, caro e maior m2: OK')
 
 
 def load():
 
-    # Carrega os dados a partir da área de staging.
-    df_perto_barato = pd.read_csv("/tmp/acomodacoes_perto_barato.csv")
-    df_perto_caro = pd.read_csv("/tmp/acomodacoes_perto_caro.csv")
-
-    # Converte os dados para o formato parquet.
-    df_perto_barato.to_parquet("/tmp/acomodacoes_perto_barato.parquet", index=False)
-    df_perto_caro.to_parquet("/tmp/acomodacoes_perto_caro.parquet", index=False)
-
     # Carrega os dados para o Data Lake.
-    client.fput_object("curated", "categorias-acomodacoes/acomodacoes_perto_barato.parquet", "/tmp/acomodacoes_perto_barato.parquet")
-    client.fput_object("curated", "categorias-acomodacoes/acomodacoes_perto_caro.parquet", "/tmp/acomodacoes_perto_caro.parquet")
+    client.fput_object("curated", "categorias-acomodacoes/acomodacoes_perto_barato.csv", "/tmp/acomodacoes_perto_barato.csv")
+    client.fput_object("curated", "categorias-acomodacoes/acomodacoes_perto_caro.csv", "/tmp/acomodacoes_perto_caro.csv")
+    client.fput_object("curated", "categorias-acomodacoes/acomodacoes_longe_barato_menorm2.csv", "/tmp/acomodacoes_longe_barato_menorm2.csv")
+    client.fput_object("curated", "categorias-acomodacoes/acomodacoes_longe_barato_maiorm2.csv", "/tmp/acomodacoes_longe_barato_maiorm2.csv")
+    client.fput_object("curated", "categorias-acomodacoes/acomodacoes_longe_caro_menorm2.csv", "/tmp/acomodacoes_longe_caro_menorm2.csv")
+    client.fput_object("curated", "categorias-acomodacoes/acomodacoes_longe_caro_maiorm2.csv", "/tmp/acomodacoes_longe_caro_maiorm2.csv")
 
 
 extract_task = PythonOperator(

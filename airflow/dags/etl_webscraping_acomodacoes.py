@@ -38,8 +38,8 @@ current_date = today.strftime("%d_%m_%Y")
 def extract():
 
     # Extrai os dados a partir do Data Lake.
-    url_acomodacoes = client.presigned_get_object("landing", 'webscraping_acomodacoeshash_10_11_2021.csv')
-    url_bairros = client.presigned_get_object("landing", "bairros/bairros_eleitos.csv")
+    url_acomodacoes = client.presigned_get_object("landing", 'webscraping-acomodacoes/webscraping_acomodacoeshash_10_11_2021.csv')
+    url_bairros = client.presigned_get_object("processing", "categorias-bairros/bairros_eleitos.csv")
     df_acomodacoes = pd.read_csv(url_acomodacoes)
     df_bairros = pd.read_csv(url_bairros)
     

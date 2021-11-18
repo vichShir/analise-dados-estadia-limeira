@@ -38,7 +38,7 @@ current_date = today.strftime("%d_%m_%Y")
 def extract():
 
     # Extrai os dados a partir do Data Lake.
-    url_acomodacoes = client.presigned_get_object("processing", 'acomodacoes_hashcode_10_11_2021.parquet')
+    url_acomodacoes = client.presigned_get_object("processing", 'acomodacoes_hashcode_' + current_date + '.parquet')
     df_acomodacoes = pd.read_parquet(url_acomodacoes)
     
     # Persiste os arquivos na área de Staging.

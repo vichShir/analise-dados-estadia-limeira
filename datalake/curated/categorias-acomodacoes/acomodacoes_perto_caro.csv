@@ -1,5 +1,5 @@
 index,imob,codigo,bairro,aluguel,condominio,area,quartos,banheiros,vaga_garagem,descricao,total,preco_m2,dist_unicamp
-19,C,b3b477f0632310b03bde750706df4596,JD. Paulista,950.0,0.0,16.0,1,1,0.0,"Kitnet localizada próximo à Unicamp (FCA) contendo 01 dormitório com cama e guarda-roupas, cozinha com geladeira e microondas, lavanderia, banheiro e também conta com uma área de lazer com piscina e churrasqueira.
+20,C,b3b477f0632310b03bde750706df4596,JD. Paulista,950.0,0.0,16.0,1,1,0.0,"Kitnet localizada próximo à Unicamp (FCA) contendo 01 dormitório com cama e guarda-roupas, cozinha com geladeira e microondas, lavanderia, banheiro e também conta com uma área de lazer com piscina e churrasqueira.
 16      M2
 1       QUARTO 01 CAMA BOX E GUARDA-ROUPA
 1       COZINHA COM MICROONDAS E GELADEIRA
@@ -8,7 +8,7 @@ index,imob,codigo,bairro,aluguel,condominio,area,quartos,banheiros,vaga_garagem,
 AREA DE LAZER COM CHURRASQUEIRA E PISCINA
 PISO CERÂMICO
 TETO LAJE",950.0,59.375,0.4476004851487637
-20,C,d7605883477939a58e52e551391d5dcb,JD. Paulista,950.0,0.0,16.0,1,1,0.0,"Kitnet localizada próximo à Unicamp (FCA) contendo 01 dormitório com cama e guarda-roupas, cozinha com geladeira e microondas, lavanderia, banheiro e também conta com uma área de lazer com piscina e churrasqueira
+21,C,d7605883477939a58e52e551391d5dcb,JD. Paulista,950.0,0.0,16.0,1,1,0.0,"Kitnet localizada próximo à Unicamp (FCA) contendo 01 dormitório com cama e guarda-roupas, cozinha com geladeira e microondas, lavanderia, banheiro e também conta com uma área de lazer com piscina e churrasqueira
 16      M2
 1       QUARTO COM CAMA E GUARDA-ROUPAS
 1       COZINHA COM GELADEIRA E MICROONDAS
@@ -17,7 +17,7 @@ TETO LAJE",950.0,59.375,0.4476004851487637
 ÁREA DE LAZER COM PISCINA E CHURRASQUEIRA
 PISO CERAMICO
 TETO LAJE",950.0,59.375,0.4476004851487637
-21,C,7b17e06caa3474661e0d2ac8f44da80f,JD. Paulista,950.0,0.0,,1,1,0.0,"Kitnet localizada próximo à Unicamp (FCA) contendo 01 dormitório com cama e guarda-roupas, cozinha com geladeira e microondas, lavanderia, banheiro e também conta com uma área de lazer com piscina e churrasqueira.
+22,C,7b17e06caa3474661e0d2ac8f44da80f,JD. Paulista,950.0,0.0,,1,1,0.0,"Kitnet localizada próximo à Unicamp (FCA) contendo 01 dormitório com cama e guarda-roupas, cozinha com geladeira e microondas, lavanderia, banheiro e também conta com uma área de lazer com piscina e churrasqueira.
 1º      ANDAR
 16      M2
 1       QUARTO COM SACADA, CAMA E GUARDA-ROUPAS
@@ -27,7 +27,7 @@ TETO LAJE",950.0,59.375,0.4476004851487637
 ÁREA DE LAZER COM PISCINA E CHURRASQUEIRA
 PISO CERAMICO
 TETO LAJE",950.0,,0.4476004851487637
-22,C,6a079dd44e0e8cc401934fe33492d0bc,JD. Paulista,950.0,0.0,16.0,1,1,0.0,"Kitnet localizada próximo à Unicamp (FCA) contendo 01 dormitório com cama e guarda-roupas, cozinha com geladeira e microondas, lavanderia, banheiro e também conta com uma área de lazer com piscina e churrasqueira.
+23,C,6a079dd44e0e8cc401934fe33492d0bc,JD. Paulista,950.0,0.0,16.0,1,1,0.0,"Kitnet localizada próximo à Unicamp (FCA) contendo 01 dormitório com cama e guarda-roupas, cozinha com geladeira e microondas, lavanderia, banheiro e também conta com uma área de lazer com piscina e churrasqueira.
 16      M2
 1       QUARTO COM CAMA E GUARDA-ROUPAS
 1       COZINHA COM GELADEIRA E MICROONDAS
@@ -35,14 +35,14 @@ TETO LAJE",950.0,,0.4476004851487637
 1       LAVANDERIA
 PISO CERAMICO
 TETO LAJE",950.0,59.375,0.4476004851487637
-23,C,74f4cf90ff8521e47f0acd347411dc9a,JD. Paulista,950.0,0.0,16.0,1,1,0.0,"Kitnet localizada próximo à Unicamp (FCA) contendo 01 dormitório com cama e guarda-roupas, cozinha com geladeira e microondas, lavanderia, banheiro e também conta com uma área de lazer com piscina e churrasqueira.
+24,C,74f4cf90ff8521e47f0acd347411dc9a,JD. Paulista,950.0,0.0,16.0,1,1,0.0,"Kitnet localizada próximo à Unicamp (FCA) contendo 01 dormitório com cama e guarda-roupas, cozinha com geladeira e microondas, lavanderia, banheiro e também conta com uma área de lazer com piscina e churrasqueira.
 16      M2
 1       QUARTO COM CAMA E GUARDA-ROUPAS
 1       COZINHA COM GELADEIRA E MICROONDAS
 1       BANHEIRO
 1       LAVANDERIA
 ÁREA DE LAZER COM PISCINA E CHURRASQUEIRA",950.0,59.375,0.4476004851487637
-26,C,b2d83e2253d0695b33e339b8fdd48a94,JD. Paulista,950.0,0.0,16.0,1,1,0.0,"Kitinet medindo 16 m² próximo à Faculdade Unicamp, com quarto contendo box e guarda-roupas, cozinha com geladeira e microondas, banheiro e lavanderia. Além da área de lazer com piscina e churrasqueira.
+27,C,b2d83e2253d0695b33e339b8fdd48a94,JD. Paulista,950.0,0.0,16.0,1,1,0.0,"Kitinet medindo 16 m² próximo à Faculdade Unicamp, com quarto contendo box e guarda-roupas, cozinha com geladeira e microondas, banheiro e lavanderia. Além da área de lazer com piscina e churrasqueira.
 16      M2
 1       QUARTO COM BOX E GUARDA-ROUPAS
 1       COZINHA COM GELADEIRA E MICROONDAS

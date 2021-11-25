@@ -118,11 +118,23 @@ def transform():
     bairro_map = {
         'Jardim Cidade Universitária I': 'JD. Cidade Universitária I',
         'CIDADE UNIVERSITARIA': 'JD. Cidade Universitária I',
+        ' CIDADE UNIVERSITARIA': 'JD. Cidade Universitária I',
         'Jardim Cidade Universitaria I': 'JD. Cidade Universitária I',
+        'Jardim Cidade Universitaria I - Limeira/SP': 'JD. Cidade Universitária I',
+        'Jardim Cidade Universitária I - Limeira/Sp ': 'JD. Cidade Universitária I',
+
         'Jardim Paulista': 'JD. Paulista',
         'JD. PAULISTA': 'JD. Paulista',
+        'Jardim Paulista - Limeira/Sp': 'JD. Paulista',
+
         'Jardim Morro Azul': 'JD. Morro Azul',
-        'Chacara Antonieta': 'Chácara Antonieta',
+        'Jardim Morro Azul - Limeira/Sp ': 'JD. Morro Azul',
+
+        'CHACARA ANTONIETA': 'Chácara Antonieta',
+        ' CHACARA ANTONIETA': 'Chácara Antonieta',
+        'Chácaras Antonieta - Limeira/Sp': 'Chácara Antonieta',
+        'Chácaras Antonieta - Limeira/Sp ': 'Chácara Antonieta',
+
         'Jardim São Paulo': 'JD. São Paulo'
     }
     df['bairro'] = df['bairro'].map(bairro_map)
@@ -180,6 +192,8 @@ def transform():
       elif bairro == 'Chácara Antonieta':
         dists_unicamp.append(df_bairros.loc[3, 'dist'])
       elif bairro == 'JD. São Paulo':
+        dists_unicamp.append(np.nan)
+      else:
         dists_unicamp.append(np.nan)
     df['dist_unicamp'] = dists_unicamp
     print('Criaçaõ da coluna distância da faculdade: OK')

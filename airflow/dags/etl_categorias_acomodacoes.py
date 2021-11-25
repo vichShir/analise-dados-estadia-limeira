@@ -51,72 +51,39 @@ def transform():
     df_acomodacoes = pd.read_csv("/tmp/acomodacoeshash.csv")
 
     ##############################################################
-    # Bairros - perto
+    # Acomodações baratas
     ##############################################################
-    filtro_bairros_pertos = (
-        (df_acomodacoes['bairro'] == 'JD. Paulista') |
-        (df_acomodacoes['bairro'] == 'JD. Morro Azul')
-    )
-    df_bairros_pertos = df_acomodacoes[filtro_bairros_pertos].copy()
-    total_pertos = df_bairros_pertos.shape[0]
-    print('Bairros pertos: OK')
-
-    ### Perto e barato
-    filtro_imobB_bairro_morro = (
-        (df_bairros_pertos['imob'] == 'B') &
-        (df_bairros_pertos['bairro'] == 'JD. Morro Azul')
-    )
-    df_bairros_pertos_baratos = df_bairros_pertos[filtro_imobB_bairro_morro]
-    df_bairros_pertos_baratos.index.name = 'index'
-    df_bairros_pertos_baratos.to_csv('/tmp/acomodacoes_perto_barato.csv')
-    print('(1/4) [STAGING] Acomodações perto e barato: OK')
-
-    ### Perto e caro
-    filtro_caro = (
-        (df_bairros_pertos['total'] > 700)
-    )
-    df_pertos_caros = df_bairros_pertos[filtro_caro]
-    df_pertos_caros.index.name = 'index'
-    df_pertos_caros.to_csv('/tmp/acomodacoes_perto_caro.csv')
-    print('(2/4) [STAGING] Acomodações perto e caro: OK')
-
-    ##############################################################
-    # Bairros - longe
-    ##############################################################
-    filtro_bairros_longe = (
-        (df_acomodacoes['bairro'] == 'JD. Cidade Universitária I') |
-        (df_acomodacoes['bairro'] == 'Chácara Antonieta') |
-        (df_acomodacoes['bairro'] == 'JD. São Paulo')
-    )
-    df_bairros_longe = df_acomodacoes[filtro_bairros_longe].copy()
-    print('Bairros longes: OK')
-
-    ### Longe e barato
     filtro_mais_baratos = (
-        (df_bairros_longe['total'] < 1000)
+        (df_acomodacoes['total'] < 1000)
     )
-    df_bairros_longe_barato = df_bairros_longe[filtro_mais_baratos]
-    df_bairros_longe_barato.index.name = 'index'
-    df_bairros_longe_barato.to_csv('/tmp/acomodacoes_longe_barato.csv')
-    print('(3/4) [STAGING] Acomodações longe e barato: OK')
+    df_baratos = df_acomodacoes[filtro_mais_baratos].copy()
+    total_baratos = df_baratos.shape[0]
+    print('Acomodações baratas: OK')
 
-    ### Longe e caro
-    filtro_mais_caros = (
-        (df_bairros_longe['total'] >= 1000)
+    df_baratos.index.name = 'index'
+    df_baratos.to_csv('/tmp/acomodacoes_baratas.csv')
+    print('(1/2) [STAGING] Acomodações baratas: OK')
+
+    ##############################################################
+    # Acomodações caras
+    ##############################################################
+    filtro_mais_caros= (
+        (df_acomodacoes['total'] >= 1000)
     )
-    df_bairros_longe_caro = df_bairros_longe[filtro_mais_caros]
-    df_bairros_longe_caro.index.name = 'index'
-    df_bairros_longe_caro.to_csv('/tmp/acomodacoes_longe_caro.csv')
-    print('(4/4) [STAGING] Acomodações longe e caro: OK')
+    df_caros = df_acomodacoes[filtro_mais_caros].copy()
+    total_caros = df_caros.shape[0]
+    print('Acomodações baratas: OK')
+
+    df_caros.index.name = 'index'
+    df_caros.to_csv('/tmp/acomodacoes_caras.csv')
+    print('(1/2) [STAGING] Acomodações caras: OK')
 
 
 def load():
 
     # Carrega os dados para o Data Lake.
-    client.fput_object("curated", "categorias-acomodacoes/acomodacoes_perto_barato.csv", "/tmp/acomodacoes_perto_barato.csv")
-    client.fput_object("curated", "categorias-acomodacoes/acomodacoes_perto_caro.csv", "/tmp/acomodacoes_perto_caro.csv")
-    client.fput_object("curated", "categorias-acomodacoes/acomodacoes_longe_barato.csv", "/tmp/acomodacoes_longe_barato.csv")
-    client.fput_object("curated", "categorias-acomodacoes/acomodacoes_longe_caro.csv", "/tmp/acomodacoes_longe_caro.csv")
+    client.fput_object("curated", "categorias-acomodacoes/acomodacoes_baratas.csv", "/tmp/acomodacoes_baratas.csv")
+    client.fput_object("curated", "categorias-acomodacoes/acomodacoes_caras.csv", "/tmp/acomodacoes_caras.csv")
 
 extract_task = PythonOperator(
     task_id='extract_file_from_data_lake',

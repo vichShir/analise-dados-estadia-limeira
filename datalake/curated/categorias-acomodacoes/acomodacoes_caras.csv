@@ -1,0 +1,338 @@
+index,imob,codigo,bairro,aluguel,condominio,area,quartos,banheiros,vaga_garagem,descricao,tipo_imov,total,preco_m2,dist_unicamp
+0,C,47a266070612202510b1dda757bd03e1,Chácara Antonieta,1000.0,250.33,70.0,2,1,0.0,"Apartamento no bairro Chacara Antonieta contendo 02 dormitórios, sala com sacasa, cozinha banheiro, lavanderia e vaga para 01 carro.
+70      M2
+TERREO ANDAR TERREO
+2       QUARTOS
+1       SALA COM SACADA
+1       COZINHA
+1       BANHEIRO
+1       LAVANDERIA
+1       VAGA PARA CARRO
+PISO CERÂMICO
+TETO LAJE",apto,1250.33,17.861857142857144,1.5023394363777396
+4,C,4cc7d4741c002710a0ec42f1a3a6443e,Chácara Antonieta,950.0,322.25,74.0,2,1,0.0,"Apartamento localizado no 2º andar do condomínio Spazio Firenze com 02 dormitórios, sala, cozinha planejada, banheiro, lavanderia com armário e 01 vaga para carro, além da ótima localização o condomínio conta também com piscina, salão de festas e academia.
+74      M2
+2º      ANDAR
+2       QUARTOS
+1       SALA
+1       COZINHA PLANEJADA
+1       BANHEIRO
+1       LAVANDERIA COM ARMÁRIO
+1       ÁREA DE SERVIÇO
+1       VAGA PARA CARRO
+PISO CERÂMICO
+TETO LAJE
+
+PISCINA
+ACADEMIA
+SALÃO DE FESTAS C/CHURRASQUEIRA",apto,1272.25,17.19256756756757,1.5023394363777396
+5,C,5513e1e736b58cf17409e13028348540,JD. Cidade Universitária I,1050.0,200.0,69.0,2,1,0.0,"Este apartamento de 69m² fica localizado na Cidade Universitária, pertinho da Univamp (FCA) e conta com 02 dormitórios, sala com sacada, cozinha com lavanderia integrada, banheiro e vaga para 01 carro.
+69      M2
+1º      ANDAR
+2       QUARTOS
+1       SALA COM SACADA
+1       COZINHA
+1       BANHEIRO
+1       LAVANDERIA
+1       VAGA PARA CARRO
+PISO CERAMICO
+TETO LAJE",apto,1250.0,18.115942028985508,1.3854276880650611
+6,C,1abe6d2fdcdf8f5c16ba9c9e6e4ea74d,JD. Cidade Universitária I,1000.0,200.0,69.0,2,1,0.0,"Este apartamento de 69m² fica localizado na Cidade Universitária, pertinho da Univamp (FCA) e conta com 02 dormitórios, sala com sacada, cozinha com lavanderia integrada, banheiro e vaga para 01 carro.
+69      M2
+2       QUARTOS
+1       SALA COM SACADA
+1       COZINHA COM LAVANDERIA INTEGRADA
+1       BANHEIRO
+1       VAGA PARA CARRO
+PISO CERAMICO
+TETO LAJE",apto,1200.0,17.391304347826086,1.3854276880650611
+7,C,c69c62dc38d0ae6e4c52a0cc96b78b10,Chácara Antonieta,1100.0,306.67,65.0,2,1,0.0,"Apartamento localizado no 1º andar do Residencial Mosaico, contendo 02 dormitórios, sala com sacada, cozinha com armário, lavanderia integrada, banheiro e 01 vaga para carro, além da área de lazer com piscina e salão de festas.
+65      M2
+1º      ANDAR
+2       QUARTOS
+1       SALA COM SACADA
+1       COZINHA COM ARMÁRIO
+1       BANHEIRO
+1       LAVANDERIA
+1       VAGA PARA CARRO
+PISO CERAMICO
+TETO LAJE
+SALÃO DE FESTAS
+PISCINA",apto,1406.67,21.641076923076923,1.5023394363777396
+8,C,b0adae4841fa14e7ecc1e27b2444c755,JD. Cidade Universitária I,900.0,150.0,,2,1,0.0,"02 quartos, sala com sacada, cozinha com gabinete, banheiro com box e gabinete e lavanderia
+
+63      M2
+2       QUARTOS
+1       SALA COM SACADA
+1       COZINHA
+1       BANHEIRO COM BOX
+1       LAVANDERIA
+1       VAGA PARA CARRO
+PISO CERÂMICO
+TETO LAJE",apto,1050.0,,1.3854276880650611
+9,C,9015ae8f5752ae92b423e96edb96ae3b,Chácara Antonieta,950.0,308.91,,2,1,0.0,"Apartamento localizado no bairro Chácara Antonieta contendo 02 quartos, sala, cozinha, banheiro, lavanderia e vaga para 01 carro.
+1º      ANDAR
+65      M2
+2       QUARTOS
+1       SALA
+1       COZINHA
+1       BANHEIRO
+1       LAVANDERIA
+1       VAGA PARA CARRO
+PISO CERÂMICO
+TETO LAJE",apto,1258.91,,1.5023394363777396
+10,C,86c18820df4da82695848d604931f67c,JD. Cidade Universitária I,2100.0,92.5,80.0,2,1,0.0,"Lindo apartamento localizado na Cidade Universitária, em frente à portaria da Unicamp (FCA), contendo 02 dormitórios com armários e ar condicionado, sendo 01 deles uma bela suíte, sala ampla com painel, cozinha com armários, geladeira, cooktop e microondas, banheiro, quintal e garagem para 01 carro.Além da praticidade para o estudante, este apartamento também oferece conforto e segurança com cerca elétrica, portão eletronico e câmeras de monitoramento.
+80      M2
+1       QUARTO COM ARMÁRIO E AR CONDICIONADO
+1       SUÍTE COM ARMÁRIO E AR CONDICIONADO
+1       SALA COM PAINEL
+1       COZINHA COM ARMÁRIO
+1       BANHEIRO COM GABINETE
+1       LAVANDERIA
+QUINTAL
+1       VAGA COBERTA PARA CARRO COM PORTÃO ELETRONICO
+PISO PORCELANATO
+TETO LAJE",apto,2192.5,27.40625,1.3854276880650611
+11,C,d9e663c56f2d264d377c6a8708a84cdb,JD. Cidade Universitária I,900.0,203.0,63.0,2,1,0.0,"Apartamento localizado na Cidade Universitária, próximo à Faculdade Unicamp (FCA) contendo 02 dormitórios, sala com sacada, cozinha, banheiro com box, lavanderia e vaga para 01 carro.
+63      M2
+2       QUARTOS
+1       SALA COM SACADA
+1       COZINHA
+1       BANHEIRO COM BOX
+1       LAVANDERIA
+1       VAGA PARA CARRO
+PISO CERÂMICO
+TETO LAJE",apto,1103.0,17.50793650793651,1.3854276880650611
+12,C,31448937611355ff67e8c5f66e788a18,Chácara Antonieta,1300.0,312.99,66.0,3,1,0.0,"Ótimo apartamento terreo localizado no Chacara Antonieta contendo 03 quartos sendo um deles suíte, sala, cozinha, banheiro social, área de serviço, quintal e garagem para 01 carro. Acabamento em piso cerâmico e laje
+66      M2
+TERREO ANDAR TÉRREO
+2       QUARTOS
+1       SUÍTE
+1       SALA
+1       COZINHA
+1       BANHEIRO
+VARANDA
+1       ÁREA DE SERVIÇO
+1       VAGA PARA CARRO
+PISO CERAMICO
+TETO LAJE
+ÁREA GOURMET COM CHURRASQUEIRA
+BRINQUEDOTECA
+PISCINA
+SALÃO DE FESTA
+ACADEMIA
+PLAYGROUND",apto,1612.99,24.439242424242423,1.5023394363777396
+15,C,cffb4c0db870be56a7f32d2186892fdc,Chácara Antonieta,2500.0,385.23,98.0,2,1,0.0,"Lindo apartamento localizado no Chacara Antonieta contendo 02 quartos com armários, ventiladores e TV, sala com móveis planejados e sacada, cozinha planejada com geladeira, fogão, forno e exaustor, banheiro social e lavanderia com armário e máquina de lavar. Acabamento em piso cerâmico e laje e vaga na garagem para 01 carro. Tudo isso em um condomínio completo e excelente.
+98      M2
+14º     ANDAR
+2       QUARTOS COM ARMÁRIOS
+1       SALA COM MÓVEIS PLANEJADOS
+1       COZINHA PLANEJADA COM GELADEIRA, FOGÃO, FORNO E EXAUSTOR
+1       BANHEIRO SOCIAL
+1       LAVANDERIA COM ARMÁRIO
+1       VAGA PARA CARRO
+PISO CERÂMICO
+TETO LAJE
+ÁREA GOURMET COM CHURRASQUEIRA
+BRINQUEDOTECA
+PISCINA
+SALÃO DE FESTA
+ACADEMIA
+PLAYGROUND",apto,2885.23,29.44112244897959,1.5023394363777396
+16,C,57544d6162644c4cec89720f0d0fb27b,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO COM ARMARIO
+1       SALA CONJUGADA COM O QUARTO
+1       COZINHA
+1       BANHEIRO
+1       LAVANDERIA
+PISO CERÂMICO
+TETO LAJE",kitnet,1000.0,28.571428571428573,1.3854276880650611
+17,C,b62fad32adf34709c628e9833d66b8df,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO COM ARMÁRIO
+1       SALA COM RACK E AR CONDICIONADO
+JARDIM DE INVERNO
+1       COZINHA PLANEJADA COM GELADEIRA E FOGÃO COOKTOP
+1       BANHEIRO
+1       LAVANDERIA
+PISO PORCELANATO
+TETO LAJE",kitnet,1000.0,28.571428571428573,1.3854276880650611
+18,C,2d7097bf091516c6952950802bd49019,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO  COM ARMÁRIO
+1       SALA
+1       COZINHA COM ARMÁRIO E GELADEIRA
+1       BANHEIRO
+PISO CERÂMICO
+TETO LAJE",kitnet,1000.0,28.571428571428573,1.3854276880650611
+19,C,12d0456fa8a537ce311abb5ea43c4b03,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO COM ARMARIO
+1       SALA CONJUGADA COM QUARTO
+1       COZINHA COM ARMARIO, FOGÃO COOKTOP E GELADEIRA
+1       ÁREA DE SERVIÇO
+PISO CERÂMICO
+TETO LAJE",kitnet,1000.0,28.571428571428573,1.3854276880650611
+21,C,eccf80daef9939671bc11ac471171654,JD. Cidade Universitária I,1000.0,0.0,,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+1       QUARTO COM ARMARIO
+1       SALA CONJUGADA COM O QUARTO
+1       COZINHA COM ARMARIO
+1       BANHEIRO
+1       LAVANDERIA
+PISO PORCELANATO
+TETO LAJE",kitnet,1000.0,,1.3854276880650611
+22,C,72d0a25bdc4aa78facc3b05f3b7dc2b9,JD. Cidade Universitária I,1000.0,0.0,,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+1       QUARTO CONJUGADO COM A SALA
+1       SALA
+1       COZINHA
+1       BANHEIRO
+1       ÁREA DE SERVIÇO
+PISO CERÂMICO
+TETO LAJE",kitnet,1000.0,,1.3854276880650611
+23,C,adaf6dba40a3695184eea6bad00e96bf,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO COM ARMARIO
+1       SALA CONJUGADA COM QUARTO
+1       COZINHA COM ARMARIO
+1       BANHEIRO
+1       LAVANDERIA
+PISO PORCELANATO
+TETO LAJE",kitnet,1000.0,28.571428571428573,1.3854276880650611
+24,C,8621c612207ad3dbf1da43a0c56d6116,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO COM GUARDA ROUPA
+1       SALA CONJUGADO
+1       COZINHA COM ARMÁRIO, GELADEIRA E  FOGÃO COOKTOP
+1       BANHEIRO
+1       LAVANDERIA
+QUINTAL
+PISO PORCELANATO
+TETO LAJE",kitnet,1000.0,28.571428571428573,1.3854276880650611
+27,C,2730887bcbe5319d9e3efaa18e0023cc,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próximo à Unicamp (FCA) sendo quarto e sala conjugados, cozinha e área de serviço conjugados e banheiro. Este imóvel também possui: guarda-roupas, geladeira, fogão, armários e ar condicionado.
+35      M2
+1       QUARTO COM ARMARIO E AR CONDICIONADO
+1       SALA CONJUGADA
+1       COZINHA COM ARMARIO CONJUGADA
+1       BANHEIRO
+1       LAVANDERIA
+PISO PORCELANATO
+TETO LAJE",kitnet,1000.0,28.571428571428573,1.3854276880650611
+28,C,a264ee68837c839ccf3a90ee71c91b41,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO COM ARMARIO E AR CONDICIONADO
+1       SALA CONJUGADA
+1       COZINHA CONJUGADA E COM ARMARIO
+1       BANHEIRO
+1       LAVANDERIA
+PISO PORCELANATO
+TETO LAJE",kitnet,1000.0,28.571428571428573,1.3854276880650611
+29,C,3a6973c5d2b2a8726c531a1693ea2ac1,JD. Cidade Universitária I,1000.0,0.0,,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+
+35      M2
+1       QUARTO COM ARMáRIO E AR CONDICIONADO
+1       SALA CONJUGADA
+1       COZINHA COM ARMARIO E CONJUGADA
+1       BANHEIRO
+1       LAVANDERIA
+PISO PORCELANATO
+TETO LAJE",kitnet,1000.0,,1.3854276880650611
+30,C,7500856834d96bce86e5e6343d8ef15f,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO COM ARMÁRIO E AR CONDICIONADO
+1       SALA CONJUGADA
+1       COZINHA
+1       BANHEIRO
+1       LAVANDERIA
+PISO PORCELANATO
+TETO LAJE",kitnet,1000.0,28.571428571428573,1.3854276880650611
+31,C,7de4e6131938592e7ad6673ca646092f,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO E SALA CONJUGADOS
+1       COZINHA E AREA DE SERVIÇO CONJUGADOS
+1       BANHEIRO
+PISO CERÂMICO
+TETO LAJE",kitnet,1000.0,28.571428571428573,1.3854276880650611
+32,C,d41f3ff29acc315dd5302d634301606b,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próximo à Unicamp (FCA) sendo quarto e sala conjugados, cozinha e área de serviço conjugados e banheiro. Este imóvel também possui: guarda-roupas, geladeira, fogão, armários e ar condicionado.
+35      M2
+1       QUARTO COM ARMARIO E AR CONDICIONADO
+1       SALA CONJUGADA
+1       COZINHA PLANEJADA
+1       BANHEIRO
+1       ÁREA DE SERVIÇO
+PISO CERÂMICIO
+TETO LAJE",kitnet,1000.0,28.571428571428573,1.3854276880650611
+33,C,02ae405e9d8013cc5d033c272e2a800d,JD. Cidade Universitária I,1000.0,0.0,35.0,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+35      M2
+1       QUARTO  COM ARMARIO
+1       COZINHA COM ARMARIO, COOKTOP E GELADEIRA
+1       BANHEIRO
+1       ÁREA DE SERVIÇO CONJUGADA COM COZINHA
+PISO CERÂMICO
+TETO LAJE",kitnet,1000.0,28.571428571428573,1.3854276880650611
+34,C,361a537a61eaa8e33466a2a8bbe7c274,JD. Cidade Universitária I,1000.0,0.0,,1,1,0.0,"Kitnet próxima à Unicamp (FCA) contendo quarto e sala conjugados, cozinha, banheiro e lavanderia. Este imóvel conta também com geladeira, fogão, escrivaninha, guarda-roupas e ar condicionado, pronto para moradia.
+
+1       QUARTO CONJUGADO COM ARMARIO E AR CONDICIONADO
+1       COZINHA PLANEJADA
+1       BANHEIRO
+1       LAVANDERIA
+PISO CERÂMICO
+TETO LAJE",kitnet,1000.0,,1.3854276880650611
+40,C,ded7b202961dd5bb3fd74353a755c6de,JD. Cidade Universitária I,1000.0,100.0,25.0,1,1,0.0,"Apartamento localizado no Chacara Antonieta contendo quarto e sala conjugados com armário e painel de TV, cozinha planejada com geladeira e fogão, banheiro social, lavanderia e vaga na garagem para 01 carro com portão eletrônico. Acabamento em piso cerâmico e laje.
+25      M2
+1       QUARTO COM ARMÁRIO
+1       SALA COM PAINEL DE TV
+1       COZINHA PLANEJADA COM FOGÃO E GELADEIRA
+1       LAVANDERIA
+1       VAGA PARA CARRO COM PORTÃO ELETRÔNICO
+PISO CERÂMICO
+TETO LAJE",kitnet,1100.0,44.0,1.3854276880650611
+45,C,a61001168f67f6f3e2209ef429628d14,JD. Cidade Universitária I,1000.0,0.0,40.0,1,1,0.0,"Linda kitinet localizada no Cidade Universitária contendo 01 quarto com armário planejado, sala, cozinha planejada com fogão cooktop, banheiro e lavanderia com armário. Acabamento em piso cerâmico e laje
+40      M2
+1º      ANDAR
+1       QUARTO COM ARMÁRIO
+1       SALA
+1       COZINHA PLANEJADA COM FOGÃO COOKTOP
+1       BANHEIRO
+1       LAVANDERIA COM ARMÁRIO
+PISO CERÂMICO
+TETO LAJE",kitnet,1000.0,25.0,1.3854276880650611
+46,A,83a41075cdc932e3c25515cf01c2774b,JD. Cidade Universitária I,1100.0,0.0,,2,1,0.0,Sala ampla com sacada  Cozinha com gabinete WC com gabinete e box blindex Lavanderia. Garagem coberta Câmera de Monitoramento externo e interno Hall  Muro com cerca concertina Porta de acesso ao prédio com fechadura de segurança abertura externa somente com chave Portão eletrônico.,apto,1100.0,,1.3854276880650611
+47,A,e9067175b444073f4bc8aee2ffa37a18,JD. Cidade Universitária I,1100.0,0.0,,2,1,0.0,Sala ampla com sacada  Cozinha com gabinete WC com gabinete e box Blindex Lavanderia. Garagem conerta Câmera de Monitoramento externo e interno Hall  Muro com cerca concertina Porta de acesso ao prédio com fechadura de segurança abertura externa somente com chave Portão eletrônico.  Itens inclusos no aluguel Consumo de até 5 Kg de gás encanado Consumo de até 10 mtrs. cúbicos de água Consumo de energia  da área administrativa e da bomba de incêndio Faxina da área externa comum 1 vez por semana.,apto,1100.0,,1.3854276880650611
+48,A,1c275fe45a52f59318a217b001e8e3e4,,1000.0,240.0,69.0,2,1,0.0,"Imóvel com sala, cozinha, banheiro social, dois dormitórios e área de serviço.",apto,1240.0,17.971014492753625,
+49,A,1c8c858890b04f667665180848f4d514,JD. Cidade Universitária I,1000.0,200.0,,2,1,0.0,Em frente a portaria da Unicamp.   Sala ampla cm sacada.  Cozinha com gabinete. Wc com gabinete e box blindex. Lavanderia.  Garagem coberta. Câmeras de monitoramento externo e interno (hall). Porta de acesso ao prédio com fechadura de segurança ( abertura externa somente com chave). Muro com cerca concertina.  Portão eletrônico.   Itens inclusos no aluguel:  Consumo de até 5kg de gás encanado.  Consumo de até 10 metros cúbicos de água. Consumo de energia da área administrativa e da bomba de incêndio. Faxina de área comum uma vez por semana. ,apto,1200.0,,1.3854276880650611
+50,A,d089053831a167d9626cbfe93554c734,,950.0,254.0,54.0,2,1,0.0,"Imóvel com sala, cozinha com armários, dois dormitórios, área de serviço e garagem.",apto,1204.0,22.296296296296298,
+51,A,56fee471b37b40222177c1ee9659f79b,JD. Cidade Universitária I,950.0,150.0,60.0,2,1,0.0,Sala ampla com sacada; Cozinha com gabinete; WC com gabinete e box Blindex; Lavanderia. Garagem coberta; Câmera de Monitoramento externo e interno (Hall);  Muro com cerca concertina; Porta de acesso ao prédio com fechadura de segurança (abertura externa somente com chave); Portão eletrônico.  ITENS INCLUSOS NO ALUGUEL: Consumo de até 5 Kg de gás encanado; Consumo de até 10 Mtrs. cúbicos de água; Consumo de energia  da área administrativa e da bomba de incêndio; Faxina da área externa comum 1 vez por semana.,apto,1100.0,18.33333333333333,1.3854276880650611
+52,A,38d9264d17fadb6718d8260583ecb0c3,,900.0,308.9,50.0,2,1,0.0,"Imóvel com dois dormitórios, cozinha com armários, banheiro social, lavanderia com armários e sacada.",apto,1208.9,24.178,
+53,A,89ccc93d3d6d67b3172b18fe766172bf,,900.0,258.0,,2,1,0.0,"Apartamento no bairro Chácara Antonieta contendo 2 dormitórios, sala, cozinha, wc social e vaga de garagem.",apto,1158.0,,
+54,A,e97ad5cc09d0450607378e3ece9d9764,,900.0,250.0,63.0,2,1,0.0,"Apartamento com 02 dormitórios, sala, banheiro, cozinha, área de serviço e 02 vagas garagem coberta.",apto,1150.0,18.253968253968253,
+55,A,20c31cb96bd6b058b71ba6d5c52e651c,JD. Cidade Universitária I,850.0,150.0,50.0,2,1,0.0,"Imóvel com sala ampla com sacada; cozinha com gabinete, banheiro com gabinete e box, lavanderia e garagem coberta;",apto,1000.0,20.0,1.3854276880650611
+56,A,12bb30501508504b0a9a8c9ad27d7038,,850.0,308.0,50.0,2,1,0.0,"Imóvel com dois dormitórios, sala, cozinha, área de serviço, banheiro social e sacada.",apto,1158.0,23.16,
+57,A,a8b47ec7d71aaf4298732b05e1c0ec8e,,800.0,341.0,,2,1,0.0,"Apartamento com 2 dormitórios, 1 sala, cozinha com gabinete, mesa com cadeiras e banqueta e banheiro com box blindex.",apto,1141.0,,
+58,A,71892c118fdb6dc0e94544eef59d98dc,,800.0,339.8,65.0,2,1,0.0,"Apartamento oferece 2 dormitórios com armários, banheiro com box, sala, cozinha com armário, área de serviço coberta e 1 vaga de garagem.",apto,1139.8,17.535384615384615,
+59,A,39b7f0923fd82bb666ecc1a168848a28,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel próximo à Unicamp e também com entrada pela Av Libertino Pizani, 177. Conta com sala  e cozinha conjugados, sendo a cozinha já mobiliada com gabinete, balcão, fogão e geladeira, lavanderia, dormitório com armário, mesa para estudos e ar condicionado, e o banheiro com gabinete e box blindex, além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa, o consumo de gás, faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h (sem acesso remoto). O imóvel oferece também o ponto para internet, onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades",kitnet,1050.0,,1.3854276880650611
+60,A,2f8542abf804d897430c0c9a84b1991e,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel muito bem localizado! Conta com sala  e cozinha conjugados, sendo a cozinha já mobiliada com gabinete, balcão, fogão e geladeira, lavanderia, dormitório com armário, mesa para estudos e ar condicionado, e o banheiro com gabinete e box blindex, além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa, o consumo de gás, faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h (sem acesso remoto).  O imóvel oferece também o ponto para internet, onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades (10MB - R$ 59,90 // 15MB - 79,90 ou 20MB - R$ 99,90). A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision, que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  *** VALORES REFERENTE À INTERNET SUJEITOS A ALTERAÇÃO, SEM PREVIO AVISO, PELA EMPRESA RESPONSÁVEL.***",kitnet,1050.0,,1.3854276880650611
+61,A,7ef0dfe78be61f5fd8392d3948fb860c,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel com: geladeira, fogão, gabinete e mesa na cozinha, interfone, um dormitório com armário e mesa, ar condicionado, banheiro com gabinete e persianas.",kitnet,1050.0,,1.3854276880650611
+62,A,5416c9b0aba5eb43b419b107d3975a76,JD. Cidade Universitária I,1050.0,0.0,50.0,1,1,0.0,Imóvel muito bem localizado Conta com sala  e cozinha conjugados sendo a cozinha já mobiliada com gabinete balcão fogão e geladeira lavanderia dormitório com armário mesa para estudos e ar condicionado e o banheiro com gabinete e box blindex além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa o consumo de gás faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h sem acesso remoto.  O imóvel oferece também o ponto para internet onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades 10MB - R 5990 // 15MB - 7990 ou 20MB - R 9990. A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  VALORES REFERENTE À INTERNET SUJEITOS A ALTERAÇÃO SEM PREVIO AVISO PELA EMPRESA RESPONSÁVEL.,kitnet,1050.0,21.0,1.3854276880650611
+63,A,2c8c9e9121145fbc37ef67c0a5ea3869,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,Imóvel muito bem localizado. Conta com sala  e cozinha conjugados sendo a cozinha já mobiliada com gabinete balcão fogão e geladeira lavanderia dormitório com armário mesa para estudos e ar condicionado e o banheiro com gabinete e box blindex além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa o consumo de gás faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h sem acesso remoto.  O imóvel oferece também o ponto para internet onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades 10MB - R 5990 // 15MB - 7990 ou 20MB - R 9990. A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO SEM PREVIO AVISO PELA EMPRESA RESPONSÁVEL.,kitnet,1050.0,,1.3854276880650611
+64,A,66144e0bddee1c85b94bc338ecfae0fb,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel muito bem localizado. Conta com sala e cozinha conjugados sendo a cozinha já mobiliada com gabinete, balcão, fogão e geladeira, lavanderia, dormitório com armário, mesa para estudos e ar condicionado, banheiro com gabinete e box blindex, interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa o consumo de gás, faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h sem acesso remoto.  O imóvel oferece também o ponto para internet onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades 10MB - R$ 59,90 // 15MB - R$ 79,90 ou 20MB - R$ 99,90. A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO SEM PRÉVIA, AVISO PELA EMPRESA RESPONSÁVEL.",kitnet,1050.0,,1.3854276880650611
+65,A,484d3f328baba48b8f789ddac04a86d8,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel com sala  e cozinha conjugados, sendo a cozinha mobiliada com gabinete, balcão, fogão e geladeira, lavanderia, dormitório com armário, mesa para estudos e ar condicionado, e o banheiro com gabinete e box,  interfone individual.  No aluguel está incluso o consumo de água até 2.500L por pessoa, o consumo de gás, faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h (sem acesso remoto). O imóvel oferece também o ponto para internet, onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades (10MB - R$ 59,90 // 15MB - 79,90 ou 20MB - R$ 99,90). A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision, que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  *** VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO, SEM PREVIO AVISO, PELA EMPRESA RESPONSÁVEL.***",kitnet,1050.0,,1.3854276880650611
+66,A,8dae04e0c3ca32298ab313770631283a,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel muito bem localizado. Conta com sala e cozinha conjugados, sendo a cozinha já mobiliada com gabinete, balcão, fogão e geladeira, lavanderia, dormitório com armário, mesa para estudos e ar condicionado e o banheiro com gabinete e box blindex, além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa, o consumo de gás, faxina quinzenal e consumo de energia da área comum, conta também com câmeras de monitoramento 24h sem acesso remoto.",kitnet,1050.0,,1.3854276880650611
+67,A,76593fa9601827b4b1e32e91e2076188,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,Imóvel muito bem localizado. Conta com sala  e cozinha conjugados sendo a cozinha já mobiliada com gabinete balcão fogão e geladeira lavanderia dormitório com armário mesa para estudos e ar condicionado e o banheiro com gabinete e box blindex além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa o consumo de gás faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h sem acesso remoto.  O imóvel oferece também o ponto para internet onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades 10MB - R 5990 // 15MB - 7990 ou 20MB - R 9990. A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO SEM PREVIO AVISO PELA EMPRESA RESPONSÁVEL.,kitnet,1050.0,,1.3854276880650611
+68,A,facc793b46ad4ca374ce1fd9b573d59e,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel muito bem localizado! Conta com sala e cozinha conjugados, sendo a cozinha já mobiliada com gabinete, balcão, fogão e geladeira, área de serviço, dormitório com armário, mesa para estudos e ar condicionado, e o banheiro com gabinete e box de vidro, além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa, o consumo de gás, faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h (sem acesso remoto).  O imóvel oferece também o ponto para internet, onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades (10MB - R$ 59,90 // 15MB - 79,90 ou 20MB - R$ 99,90). A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision, que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema. . VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO, SEM PREVIO AVISO, PELA EMPRESA RESPONSÁVEL",kitnet,1050.0,,1.3854276880650611
+69,A,f35ab38d7e2c5a4b5e0a009ccc32d452,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,Imóvel novo 1 locação próximo à Unicamp e também com entrada pela Av Libertino Pizani 177. Conta com sala  e cozinha conjugados sendo a cozinha já mobiliada com gabinete balcão fogão e geladeira lavanderia dormitório com armário mesa para estudos e ar condicionado e o banheiro com gabinete e box blindex além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa o consumo de gás faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h sem acesso remoto. O imóvel oferece também o ponto para internet onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades 10MB - R 5990 // 15MB - 7990 ou 20MB - R 9990. A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO SEM PREVIO AVISO PELA EMPRESA RESPONSÁVEL.,kitnet,1050.0,,1.3854276880650611
+70,A,c42857333ce48605664427a5dbb10ad3,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel muito bem localizado. Conta com sala e cozinha conjugados sendo a cozinha já mobiliada com gabinete, balcão, fogão e geladeira, lavanderia, dormitório com armário, mesa para estudos e ar condicionado, banheiro com gabinete e box blindex, interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa o consumo de gás, faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h sem acesso remoto.  O imóvel oferece também o ponto para internet onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades 10MB - R$ 59,90 // 15MB - R$ 79,90 ou 20MB - R$ 99,90. A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO SEM PRÉVIA,  AVISO PELA EMPRESA RESPONSÁVEL.",kitnet,1050.0,,1.3854276880650611
+71,A,0bec22f95dda4bc6548e30e004f81d89,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel muito bem localizado! Conta com sala  e cozinha conjugados, sendo a cozinha já mobiliada com gabinete, balcão, fogão e geladeira, lavanderia, dormitório com armário, mesa para estudos e ar condicionado, e o banheiro com gabinete e box blindex, além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa, o consumo de gás, faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h (sem acesso remoto).  O imóvel oferece também o ponto para internet, onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades (10MB - R$ 59,90 // 15MB - 79,90 ou 20MB - R$ 99,90). A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision, que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO, SEM PREVIO AVISO, PELA EMPRESA RESPONSÁVEL.",kitnet,1050.0,,1.3854276880650611
+72,A,475644c10a484e1b4248c595e8b15d78,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,"Imóvel muito bem localizado! Conta com sala  e cozinha conjugados, sendo a cozinha já mobiliada com gabinete, balcão, fogão e geladeira, lavanderia, dormitório com armário, mesa para estudos e ar condicionado, e o banheiro com gabinete e box blindex, além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa, o consumo de gás, faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h (sem acesso remoto).  O imóvel oferece também o ponto para internet, onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades (10MB - R$ 59,90 // 15MB - 79,90 ou 20MB - R$ 99,90). A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision, que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  *** VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO, SEM PREVIO AVISO, PELA EMPRESA RESPONSÁVEL.***",kitnet,1050.0,,1.3854276880650611
+73,A,941707c7ec03960821a488b2754bd59a,JD. Cidade Universitária I,1050.0,0.0,,1,1,0.0,Imóvel muito bem localizado Conta com sala  e cozinha conjugados sendo a cozinha já mobiliada com gabinete balcão fogão e geladeira lavanderia dormitório com armário mesa para estudos e ar condicionado e o banheiro com gabinete e box blindex além de interfone individual. No aluguel está incluso o consumo de água até 2.500L por pessoa o consumo de gás faxina quinzenal e consumo de energia da área comum e conta também com câmeras de monitoramento 24h sem acesso remoto.  O imóvel oferece também o ponto para internet onde todo o cabeamento já está pronto. Ficando de responsabilidade do locatário a compra do roteador e pagamento do plano que melhor atenderá suas necessidades 10MB - R 5990 // 15MB - 7990 ou 20MB - R 9990. A solicitação desses planos será também de responsabilidade do locatário e feito junto a empresa Net Vision que permanecerão sempre à disposição diante de qualquer dúvida e/ou problema.  VALORES REFERENTE À INTERNET SUJEITOS A ALTERÇÃO SEM PREVIO AVISO PELA EMPRESA RESPONSÁVEL.,kitnet,1050.0,,1.3854276880650611
+74,A,8ea6bceec892ab9d2467eb912385a1a9,JD. Paulista,1000.0,0.0,,1,1,0.0,"Kitnet com um dormitório, banheiro, cozinha, área de serviço para uso comum.",kitnet,1000.0,,0.4476004851487637
+75,A,a57f034de361fc21b0efb06b4f6434a2,JD. Cidade Universitária I,1000.0,0.0,,1,1,0.0,"Kitnet com sala e cozinha conjugados, hall,  um dormitório com banheiro e área de serviço.",kitnet,1000.0,,1.3854276880650611
+96,A,4cc0e019beccf19b1e1182b9e896f089,JD. Cidade Universitária I,1000.0,0.0,,1,1,0.0,1 QUARTO COM ARMÁRIO E AR CONDICIONADO;1 SALA CONJUGADA;1 COZINHA CONJUGADA COM FOGÃO COOKTOP E GELADEIRA;1 BANHEIRO.AGUA E CONDOMINIO JÁ INCLUSO NO VALOR DO ALUGUEL.ENERGIA É A PARTE.*NÃO TEM VAGA DE GARAGEM.,kitnet,1000.0,,1.3854276880650611
+97,A,06e3f8f16947e2119e6dd13e9671eb62,JD. Cidade Universitária I,1200.0,0.0,20.0,1,1,1.0,"KITNET COM COZINHA COM ARMÁRIOS, GALADEIRA, FOGÃO ELÉTRICO E MICROONDAS,  GUARDA ROUPA,PAINEL COM ESCRIVANINHA,AR CONDICIONADO. GARAGEM ROTATIVA.INCLUSO AGUA E LIMPEZA EXTERNA.ENERGIA À PARTE.",kitnet,1200.0,60.0,1.3854276880650611
+98,A,d4f9e281bf219ebb78ba326984931a75,JD. Cidade Universitária I,1200.0,0.0,20.0,1,1,1.0,"KITNET COM COZINHA COM ARMÁRIOS, GALADEIRA, FOGÃO ELÉTRICO E MICROONDAS,  GUARDA ROUPA,PAINEL COM ESCRIVANINHA,AR CONDICIONADO. GARAGEM ROTATIVA.INCLUSO AGUA E LIMPEZA EXTERNA.ENERGIA À PARTE.",kitnet,1200.0,60.0,1.3854276880650611
+99,A,4335d8cdb2b2d5869e31b2e4a8a5397e,JD. Cidade Universitária I,1200.0,0.0,20.0,1,1,1.0,"COZINHA COM ARMARIOS, GALDEIRA, FOGÃO E MICROONDAS  GUARDA ROUPA PAINEL COM ESCRIVANINHA AR CONDICIONADO GARAGEM ROTATIVA INCLUSO AGUA E LIMPEZA EXTERNA",kitnet,1200.0,60.0,1.3854276880650611
+100,A,3523c1ce248ca6ae7f76dc30e70f87c4,JD. Cidade Universitária I,1200.0,0.0,20.0,1,1,1.0,"KITNET COM COZINHA COM ARMÁRIOS, GALADEIRA, FOGÃO ELÉTRICO E MICROONDAS,  GUARDA ROUPA,PAINEL COM ESCRIVANINHA,AR CONDICIONADO. GARAGEM ROTATIVA.INCLUSO AGUA E LIMPEZA EXTERNA.ENERGIA À PARTE.",kitnet,1200.0,60.0,1.3854276880650611
+101,A,7d5484786120d25928bb67c399e56d7f,JD. Cidade Universitária I,1200.0,0.0,20.0,1,1,1.0,"KITNET COM COZINHA COM ARMÁRIOS, GALADEIRA, FOGÃO ELÉTRICO E MICROONDAS,  GUARDA ROUPA,PAINEL COM ESCRIVANINHA,AR CONDICIONADO. GARAGEM ROTATIVA.INCLUSO AGUA E LIMPEZA EXTERNA.ENERGIA À PARTE.",kitnet,1200.0,60.0,1.3854276880650611
+102,A,0ceadbf4db60a38cf3ab2d56ecc86e9b,JD. Cidade Universitária I,1200.0,0.0,20.0,1,1,1.0,"KITNET COM COZINHA COM ARMÁRIOS, GALADEIRA, FOGÃO ELÉTRICO E MICROONDAS,  GUARDA ROUPA,PAINEL COM ESCRIVANINHA,AR CONDICIONADO. GARAGEM ROTATIVA.INCLUSO AGUA E LIMPEZA EXTERNA.ENERGIA À PARTE.",kitnet,1200.0,60.0,1.3854276880650611
+103,A,c5376259a423f128711fd7b7a691b84c,JD. Cidade Universitária I,1200.0,0.0,25.0,1,1,1.0,"KITNET COM COZINHA COM ARMÁRIOS, GALADEIRA, FOGÃO ELÉTRICO E MICROONDAS,  GUARDA ROUPA,PAINEL COM ESCRIVANINHA,AR CONDICIONADO. GARAGEM ROTATIVA.INCLUSO AGUA E LIMPEZA EXTERNA.ENERGIA À PARTE.",kitnet,1200.0,48.0,1.3854276880650611
+104,A,0ad20aec1ef2df50a06a50921b1b230f,JD. Cidade Universitária I,1200.0,0.0,25.0,1,1,1.0,"KITNET COM COZINHA COM ARMÁRIOS, GALADEIRA, FOGÃO ELÉTRICO E MICROONDAS,  GUARDA ROUPA,PAINEL COM ESCRIVANINHA,AR CONDICIONADO. GARAGEM ROTATIVA.INCLUSO AGUA E LIMPEZA EXTERNA.ENERGIA À PARTE.",kitnet,1200.0,48.0,1.3854276880650611

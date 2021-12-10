@@ -39,3 +39,6 @@ No início de 2020, após o resultado do **Vestibular da Unicamp**, fomos até o
 
 No início de **2022**, provavelmente, voltaremos com as **aulas presenciais** na faculdade. E desta vez, quero ter a certeza de que escolhi o **melhor lugar**, com custo benefício, aconchego e afins, baseado na **análise de dados** das acomodações extraídas.
 
+### 📖 Referências
+
+QASSIM, Ahmed. **Easy Steps To Plot Geographic Data on a Map — Python**.  2019.  Disponível em: https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-python-11217859a2db.

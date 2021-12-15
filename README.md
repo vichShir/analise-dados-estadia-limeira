@@ -41,4 +41,7 @@ No início de **2022**, provavelmente, voltaremos com as **aulas presenciais** n
 
 ### 📖 Referências
 
-QASSIM, Ahmed. **Easy Steps To Plot Geographic Data on a Map — Python**.  2019.  Disponível em: https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-python-11217859a2db.
+* QASSIM, Ahmed. **Easy Steps To Plot Geographic Data on a Map — Python**.  2019.  Disponível em: https://towardsdatascience.com/easy-steps-to-plot-geographic-data-on-a-map-python-11217859a2db.
+*  GOOGLE. Google Maps. Disponível em: https://www.google.com.br/maps.
+*  4.LOCATING Elements. Disponível em: https://selenium-python.readthedocs.io/locating-elements.html.
+*  NOMINATIM. Disponível em: https://geopy.readthedocs.io/en/stable/#nominatim.

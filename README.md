@@ -5,6 +5,8 @@ O objetivo do projeto é desenvolver uma **análise de dados**, que auxilie a en
 
 ### 😵 Problema
 
+As **aulas presenciais** na faculdade estão marcadas para voltar em **2022** em **Limeira - SP**, longe de onde moro. Assim, vou precisar procurar por um **lugar** que responda aos seguintes requisitos:
+
 1. **Determinar os bairros para ficar em Limeira. Critérios:**
    1. **Se for perto da faculdade**, distância de até 1,5km, é um bairro elegível;
    2. **Se for longe da faculdade**, distância maior do que 1,5km, saber se posso ir de ônibus, para isso:
@@ -25,19 +27,34 @@ O objetivo do projeto é desenvolver uma **análise de dados**, que auxilie a en
   - Curated
 
 - **Jupyter Notebooks:**
-  - Webscraping dos **bairros de Limeira**.
-  - Webscraping das **linhas de ônibus de Limeira**.
-  - Geração dos **mapas dos pontos de cada linha de ônibus de Limeira.**
-  - Análise e seleção dos **bairros de Limeira.**
-  - Determinando as **linhas de ônibus de Limeira que interligam cada bairro até a faculdade**.
-  - Webscraping das **acomodações** e exportação do **dataset.**
-  - ETL e Análise manuais do **dataset das acomodações.**
+  
+  1. Webscraping dos **bairros de Limeira**.
+  
+  2. Webscraping das **linhas de ônibus de Limeira**.
+  
+  3. Geração dos **mapas dos pontos de cada linha de ônibus de Limeira.**
+  
+  4. Análise e seleção dos **bairros de Limeira.**
+  
+  5. Determinando as **linhas de ônibus de Limeira que interligam cada bairro até a faculdade**.
+  
+  6. Webscraping das **acomodações** e exportação do **dataset.**
+  
+  7. ETL e Análise manuais do **dataset das acomodações.**
+  
+  8. **Mineração** das acomodações.
 
 
 ### 🌐 Motivação
-No início de 2020, após o resultado do **Vestibular da Unicamp**, fomos até o interior de SP em Limeira para conhecer a cidade, realizar a matrícula e ver um lugar para eu ficar. Fomos atraídos por stands na rua de imobiliárias e logo decidimos fechar a locação de uma kitnet. Contudo, logo veio a **pandemia do _Coronavírus_**, e tive que **desocupar** a kitnet e **pagar as multas** do contrato da imobiliária. Além de **não ter a certeza de que foi a melhor escolha**, pois não havia pesquisado todas as opções disponíveis.
+No início de 2020, após o resultado do **Vestibular da Unicamp**, fomos até o interior de SP em Limeira para conhecer a cidade, realizar a matrícula e ver um lugar para eu ficar. Fomos atraídos por stands na rua de imobiliárias e logo decidimos fechar a locação de uma kitnet. Contudo, logo veio a **pandemia do _Coronavírus_**, e tivemos que **desocupar** a kitnet e **pagar as multas** do contrato da imobiliária. Além de **não ter a certeza de que foi a melhor escolha**, pois não havia pesquisado todas as opções disponíveis.
 
-No início de **2022**, provavelmente, voltaremos com as **aulas presenciais** na faculdade. E desta vez, quero ter a certeza de que escolhi o **melhor lugar**, com custo benefício, aconchego e afins, baseado na **análise de dados** das acomodações extraídas.
+No início de **2022**, as **aulas presenciais** estão marcadas para voltar. E desta vez, quero ter a certeza de que escolhi o **melhor lugar**, com custo benefício, aconchego e afins, baseado na **análise de dados** das acomodações extraídas.
+
+### 🎁 Resolução (04/01/2022)
+
+**Semanalmente**, realizava a coleta e mineração dos dados para **monitorar** a oferta e demanda dos imóveis. No final, juntei todas as melhores opções e, por fim, chegamos a uma kitnet **bem localizada, ótimo custo benefício, mobiliada, condomínio, água e faxina inclusos**. Realizamos a visita, gostamos e conseguimos **fechar contrato**.
+
+Sem o desenvolvimento deste projeto, através da **definição do problema**, procurando por **respostas baseado em dados**, **minerando e monitorando**, provavelmente estaria pagando mais caro. Este projeto foi bastante trabalhoso, mas com certeza valeu o **investimento**.
 
 ### 📖 Referências
 
